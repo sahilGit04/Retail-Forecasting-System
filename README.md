@@ -82,7 +82,7 @@ Retail-Forecasting-System/
 
 ### 1. Clone repository
 
-git clone 
+git clone https://github.com/sahilGit04/Retail-Forecasting-System
 
 cd Retail-Forecasting-System
 
