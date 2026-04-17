@@ -1,0 +1,2161 @@
+date,store,product,category,sales
+2026-01-01,Mumbai,cereals,Grocery,151
+2026-01-01,Mumbai,herbs,Grocery,114
+2026-01-01,Mumbai,fruits,Grocery,133
+2026-01-01,Mumbai,veggies,Grocery,89
+2026-01-01,Mumbai,Milk,Dairy,180
+2026-01-01,Mumbai,Cheese,Dairy,98
+2026-01-01,Mumbai,Butter Milk,Dairy,129
+2026-01-01,Mumbai,Chips,Snacks,156
+2026-01-01,Mumbai,Nuts,Snacks,163
+2026-01-01,Mumbai,Cheetos,Snacks,96
+2026-01-01,Mumbai,M&M'S,Snacks,83
+2026-01-01,Mumbai,Soft Drinks,Beverages,148
+2026-01-01,Mumbai,Energy Drinks,Beverages,339
+2026-01-01,Mumbai,coffee&tea,Beverages,146
+2026-01-01,Mumbai,Shampoo,Personal Care,99
+2026-01-01,Mumbai,Lotion,Personal Care,45
+2026-01-01,Mumbai,Soap,Personal Care,92
+2026-01-01,Mumbai,Face Wash,Personal Care,93
+2026-01-01,Pune,cereals,Grocery,127
+2026-01-01,Pune,herbs,Grocery,101
+2026-01-01,Pune,fruits,Grocery,162
+2026-01-01,Pune,veggies,Grocery,119
+2026-01-01,Pune,Milk,Dairy,174
+2026-01-01,Pune,Cheese,Dairy,13
+2026-01-01,Pune,Butter Milk,Dairy,132
+2026-01-01,Pune,Chips,Snacks,144
+2026-01-01,Pune,Nuts,Snacks,140
+2026-01-01,Pune,Cheetos,Snacks,101
+2026-01-01,Pune,M&M'S,Snacks,102
+2026-01-01,Pune,Soft Drinks,Beverages,183
+2026-01-01,Pune,Energy Drinks,Beverages,184
+2026-01-01,Pune,coffee&tea,Beverages,102
+2026-01-01,Pune,Shampoo,Personal Care,63
+2026-01-01,Pune,Lotion,Personal Care,54
+2026-01-01,Pune,Soap,Personal Care,80
+2026-01-01,Pune,Face Wash,Personal Care,131
+2026-01-01,Delhi,cereals,Grocery,102
+2026-01-01,Delhi,herbs,Grocery,68
+2026-01-01,Delhi,fruits,Grocery,168
+2026-01-01,Delhi,veggies,Grocery,101
+2026-01-01,Delhi,Milk,Dairy,165
+2026-01-01,Delhi,Cheese,Dairy,79
+2026-01-01,Delhi,Butter Milk,Dairy,131
+2026-01-01,Delhi,Chips,Snacks,171
+2026-01-01,Delhi,Nuts,Snacks,242
+2026-01-01,Delhi,Cheetos,Snacks,228
+2026-01-01,Delhi,M&M'S,Snacks,123
+2026-01-01,Delhi,Soft Drinks,Beverages,171
+2026-01-01,Delhi,Energy Drinks,Beverages,181
+2026-01-01,Delhi,coffee&tea,Beverages,138
+2026-01-01,Delhi,Shampoo,Personal Care,105
+2026-01-01,Delhi,Lotion,Personal Care,121
+2026-01-01,Delhi,Soap,Personal Care,10
+2026-01-01,Delhi,Face Wash,Personal Care,63
+2026-01-01,Bangalore,cereals,Grocery,147
+2026-01-01,Bangalore,herbs,Grocery,56
+2026-01-01,Bangalore,fruits,Grocery,179
+2026-01-01,Bangalore,veggies,Grocery,75
+2026-01-01,Bangalore,Milk,Dairy,229
+2026-01-01,Bangalore,Cheese,Dairy,108
+2026-01-01,Bangalore,Butter Milk,Dairy,88
+2026-01-01,Bangalore,Chips,Snacks,142
+2026-01-01,Bangalore,Nuts,Snacks,100
+2026-01-01,Bangalore,Cheetos,Snacks,139
+2026-01-01,Bangalore,M&M'S,Snacks,86
+2026-01-01,Bangalore,Soft Drinks,Beverages,199
+2026-01-01,Bangalore,Energy Drinks,Beverages,131
+2026-01-01,Bangalore,coffee&tea,Beverages,108
+2026-01-01,Bangalore,Shampoo,Personal Care,129
+2026-01-01,Bangalore,Lotion,Personal Care,72
+2026-01-01,Bangalore,Soap,Personal Care,101
+2026-01-01,Bangalore,Face Wash,Personal Care,44
+2026-01-02,Mumbai,cereals,Grocery,265
+2026-01-02,Mumbai,herbs,Grocery,80
+2026-01-02,Mumbai,fruits,Grocery,48
+2026-01-02,Mumbai,veggies,Grocery,67
+2026-01-02,Mumbai,Milk,Dairy,192
+2026-01-02,Mumbai,Cheese,Dairy,71
+2026-01-02,Mumbai,Butter Milk,Dairy,120
+2026-01-02,Mumbai,Chips,Snacks,130
+2026-01-02,Mumbai,Nuts,Snacks,163
+2026-01-02,Mumbai,Cheetos,Snacks,137
+2026-01-02,Mumbai,M&M'S,Snacks,68
+2026-01-02,Mumbai,Soft Drinks,Beverages,349
+2026-01-02,Mumbai,Energy Drinks,Beverages,156
+2026-01-02,Mumbai,coffee&tea,Beverages,152
+2026-01-02,Mumbai,Shampoo,Personal Care,112
+2026-01-02,Mumbai,Lotion,Personal Care,72
+2026-01-02,Mumbai,Soap,Personal Care,54
+2026-01-02,Mumbai,Face Wash,Personal Care,86
+2026-01-02,Pune,cereals,Grocery,111
+2026-01-02,Pune,herbs,Grocery,66
+2026-01-02,Pune,fruits,Grocery,142
+2026-01-02,Pune,veggies,Grocery,98
+2026-01-02,Pune,Milk,Dairy,209
+2026-01-02,Pune,Cheese,Dairy,56
+2026-01-02,Pune,Butter Milk,Dairy,134
+2026-01-02,Pune,Chips,Snacks,123
+2026-01-02,Pune,Nuts,Snacks,165
+2026-01-02,Pune,Cheetos,Snacks,140
+2026-01-02,Pune,M&M'S,Snacks,101
+2026-01-02,Pune,Soft Drinks,Beverages,101
+2026-01-02,Pune,Energy Drinks,Beverages,339
+2026-01-02,Pune,coffee&tea,Beverages,159
+2026-01-02,Pune,Shampoo,Personal Care,117
+2026-01-02,Pune,Lotion,Personal Care,86
+2026-01-02,Pune,Soap,Personal Care,45
+2026-01-02,Pune,Face Wash,Personal Care,49
+2026-01-02,Delhi,cereals,Grocery,218
+2026-01-02,Delhi,herbs,Grocery,101
+2026-01-02,Delhi,fruits,Grocery,110
+2026-01-02,Delhi,veggies,Grocery,93
+2026-01-02,Delhi,Milk,Dairy,160
+2026-01-02,Delhi,Cheese,Dairy,112
+2026-01-02,Delhi,Butter Milk,Dairy,136
+2026-01-02,Delhi,Chips,Snacks,166
+2026-01-02,Delhi,Nuts,Snacks,146
+2026-01-02,Delhi,Cheetos,Snacks,288
+2026-01-02,Delhi,M&M'S,Snacks,127
+2026-01-02,Delhi,Soft Drinks,Beverages,162
+2026-01-02,Delhi,Energy Drinks,Beverages,313
+2026-01-02,Delhi,coffee&tea,Beverages,48
+2026-01-02,Delhi,Shampoo,Personal Care,118
+2026-01-02,Delhi,Lotion,Personal Care,119
+2026-01-02,Delhi,Soap,Personal Care,26
+2026-01-02,Delhi,Face Wash,Personal Care,69
+2026-01-02,Bangalore,cereals,Grocery,140
+2026-01-02,Bangalore,herbs,Grocery,106
+2026-01-02,Bangalore,fruits,Grocery,152
+2026-01-02,Bangalore,veggies,Grocery,105
+2026-01-02,Bangalore,Milk,Dairy,394
+2026-01-02,Bangalore,Cheese,Dairy,75
+2026-01-02,Bangalore,Butter Milk,Dairy,76
+2026-01-02,Bangalore,Chips,Snacks,184
+2026-01-02,Bangalore,Nuts,Snacks,120
+2026-01-02,Bangalore,Cheetos,Snacks,162
+2026-01-02,Bangalore,M&M'S,Snacks,115
+2026-01-02,Bangalore,Soft Drinks,Beverages,163
+2026-01-02,Bangalore,Energy Drinks,Beverages,131
+2026-01-02,Bangalore,coffee&tea,Beverages,129
+2026-01-02,Bangalore,Shampoo,Personal Care,62
+2026-01-02,Bangalore,Lotion,Personal Care,51
+2026-01-02,Bangalore,Soap,Personal Care,38
+2026-01-02,Bangalore,Face Wash,Personal Care,71
+2026-01-03,Mumbai,cereals,Grocery,184
+2026-01-03,Mumbai,herbs,Grocery,116
+2026-01-03,Mumbai,fruits,Grocery,207
+2026-01-03,Mumbai,veggies,Grocery,94
+2026-01-03,Mumbai,Milk,Dairy,294
+2026-01-03,Mumbai,Cheese,Dairy,150
+2026-01-03,Mumbai,Butter Milk,Dairy,109
+2026-01-03,Mumbai,Chips,Snacks,163
+2026-01-03,Mumbai,Nuts,Snacks,146
+2026-01-03,Mumbai,Cheetos,Snacks,136
+2026-01-03,Mumbai,M&M'S,Snacks,132
+2026-01-03,Mumbai,Soft Drinks,Beverages,197
+2026-01-03,Mumbai,Energy Drinks,Beverages,186
+2026-01-03,Mumbai,coffee&tea,Beverages,215
+2026-01-03,Mumbai,Shampoo,Personal Care,143
+2026-01-03,Mumbai,Lotion,Personal Care,121
+2026-01-03,Mumbai,Soap,Personal Care,89
+2026-01-03,Mumbai,Face Wash,Personal Care,99
+2026-01-03,Pune,cereals,Grocery,140
+2026-01-03,Pune,herbs,Grocery,69
+2026-01-03,Pune,fruits,Grocery,199
+2026-01-03,Pune,veggies,Grocery,294
+2026-01-03,Pune,Milk,Dairy,238
+2026-01-03,Pune,Cheese,Dairy,125
+2026-01-03,Pune,Butter Milk,Dairy,156
+2026-01-03,Pune,Chips,Snacks,211
+2026-01-03,Pune,Nuts,Snacks,157
+2026-01-03,Pune,Cheetos,Snacks,156
+2026-01-03,Pune,M&M'S,Snacks,151
+2026-01-03,Pune,Soft Drinks,Beverages,243
+2026-01-03,Pune,Energy Drinks,Beverages,231
+2026-01-03,Pune,coffee&tea,Beverages,123
+2026-01-03,Pune,Shampoo,Personal Care,105
+2026-01-03,Pune,Lotion,Personal Care,69
+2026-01-03,Pune,Soap,Personal Care,97
+2026-01-03,Pune,Face Wash,Personal Care,67
+2026-01-03,Delhi,cereals,Grocery,70
+2026-01-03,Delhi,herbs,Grocery,112
+2026-01-03,Delhi,fruits,Grocery,213
+2026-01-03,Delhi,veggies,Grocery,90
+2026-01-03,Delhi,Milk,Dairy,548
+2026-01-03,Delhi,Cheese,Dairy,129
+2026-01-03,Delhi,Butter Milk,Dairy,176
+2026-01-03,Delhi,Chips,Snacks,232
+2026-01-03,Delhi,Nuts,Snacks,186
+2026-01-03,Delhi,Cheetos,Snacks,160
+2026-01-03,Delhi,M&M'S,Snacks,310
+2026-01-03,Delhi,Soft Drinks,Beverages,196
+2026-01-03,Delhi,Energy Drinks,Beverages,221
+2026-01-03,Delhi,coffee&tea,Beverages,198
+2026-01-03,Delhi,Shampoo,Personal Care,99
+2026-01-03,Delhi,Lotion,Personal Care,129
+2026-01-03,Delhi,Soap,Personal Care,114
+2026-01-03,Delhi,Face Wash,Personal Care,145
+2026-01-03,Bangalore,cereals,Grocery,167
+2026-01-03,Bangalore,herbs,Grocery,142
+2026-01-03,Bangalore,fruits,Grocery,205
+2026-01-03,Bangalore,veggies,Grocery,99
+2026-01-03,Bangalore,Milk,Dairy,288
+2026-01-03,Bangalore,Cheese,Dairy,153
+2026-01-03,Bangalore,Butter Milk,Dairy,177
+2026-01-03,Bangalore,Chips,Snacks,209
+2026-01-03,Bangalore,Nuts,Snacks,157
+2026-01-03,Bangalore,Cheetos,Snacks,184
+2026-01-03,Bangalore,M&M'S,Snacks,142
+2026-01-03,Bangalore,Soft Drinks,Beverages,244
+2026-01-03,Bangalore,Energy Drinks,Beverages,417
+2026-01-03,Bangalore,coffee&tea,Beverages,142
+2026-01-03,Bangalore,Shampoo,Personal Care,122
+2026-01-03,Bangalore,Lotion,Personal Care,108
+2026-01-03,Bangalore,Soap,Personal Care,97
+2026-01-03,Bangalore,Face Wash,Personal Care,100
+2026-01-04,Mumbai,cereals,Grocery,73
+2026-01-04,Mumbai,herbs,Grocery,115
+2026-01-04,Mumbai,fruits,Grocery,168
+2026-01-04,Mumbai,veggies,Grocery,91
+2026-01-04,Mumbai,Milk,Dairy,145
+2026-01-04,Mumbai,Cheese,Dairy,99
+2026-01-04,Mumbai,Butter Milk,Dairy,120
+2026-01-04,Mumbai,Chips,Snacks,169
+2026-01-04,Mumbai,Nuts,Snacks,169
+2026-01-04,Mumbai,Cheetos,Snacks,341
+2026-01-04,Mumbai,M&M'S,Snacks,140
+2026-01-04,Mumbai,Soft Drinks,Beverages,211
+2026-01-04,Mumbai,Energy Drinks,Beverages,201
+2026-01-04,Mumbai,coffee&tea,Beverages,183
+2026-01-04,Mumbai,Shampoo,Personal Care,102
+2026-01-04,Mumbai,Lotion,Personal Care,122
+2026-01-04,Mumbai,Soap,Personal Care,83
+2026-01-04,Mumbai,Face Wash,Personal Care,185
+2026-01-04,Pune,cereals,Grocery,190
+2026-01-04,Pune,herbs,Grocery,87
+2026-01-04,Pune,fruits,Grocery,185
+2026-01-04,Pune,veggies,Grocery,95
+2026-01-04,Pune,Milk,Dairy,223
+2026-01-04,Pune,Cheese,Dairy,244
+2026-01-04,Pune,Butter Milk,Dairy,177
+2026-01-04,Pune,Chips,Snacks,198
+2026-01-04,Pune,Nuts,Snacks,209
+2026-01-04,Pune,Cheetos,Snacks,140
+2026-01-04,Pune,M&M'S,Snacks,179
+2026-01-04,Pune,Soft Drinks,Beverages,270
+2026-01-04,Pune,Energy Drinks,Beverages,217
+2026-01-04,Pune,coffee&tea,Beverages,151
+2026-01-04,Pune,Shampoo,Personal Care,78
+2026-01-04,Pune,Lotion,Personal Care,136
+2026-01-04,Pune,Soap,Personal Care,74
+2026-01-04,Pune,Face Wash,Personal Care,86
+2026-01-04,Delhi,cereals,Grocery,165
+2026-01-04,Delhi,herbs,Grocery,72
+2026-01-04,Delhi,fruits,Grocery,155
+2026-01-04,Delhi,veggies,Grocery,153
+2026-01-04,Delhi,Milk,Dairy,233
+2026-01-04,Delhi,Cheese,Dairy,113
+2026-01-04,Delhi,Butter Milk,Dairy,128
+2026-01-04,Delhi,Chips,Snacks,196
+2026-01-04,Delhi,Nuts,Snacks,180
+2026-01-04,Delhi,Cheetos,Snacks,166
+2026-01-04,Delhi,M&M'S,Snacks,140
+2026-01-04,Delhi,Soft Drinks,Beverages,259
+2026-01-04,Delhi,Energy Drinks,Beverages,218
+2026-01-04,Delhi,coffee&tea,Beverages,208
+2026-01-04,Delhi,Shampoo,Personal Care,140
+2026-01-04,Delhi,Lotion,Personal Care,96
+2026-01-04,Delhi,Soap,Personal Care,86
+2026-01-04,Delhi,Face Wash,Personal Care,64
+2026-01-04,Bangalore,cereals,Grocery,103
+2026-01-04,Bangalore,herbs,Grocery,101
+2026-01-04,Bangalore,fruits,Grocery,206
+2026-01-04,Bangalore,veggies,Grocery,94
+2026-01-04,Bangalore,Milk,Dairy,264
+2026-01-04,Bangalore,Cheese,Dairy,112
+2026-01-04,Bangalore,Butter Milk,Dairy,171
+2026-01-04,Bangalore,Chips,Snacks,192
+2026-01-04,Bangalore,Nuts,Snacks,187
+2026-01-04,Bangalore,Cheetos,Snacks,190
+2026-01-04,Bangalore,M&M'S,Snacks,175
+2026-01-04,Bangalore,Soft Drinks,Beverages,261
+2026-01-04,Bangalore,Energy Drinks,Beverages,94
+2026-01-04,Bangalore,coffee&tea,Beverages,170
+2026-01-04,Bangalore,Shampoo,Personal Care,87
+2026-01-04,Bangalore,Lotion,Personal Care,84
+2026-01-04,Bangalore,Soap,Personal Care,107
+2026-01-04,Bangalore,Face Wash,Personal Care,77
+2026-01-05,Mumbai,cereals,Grocery,132
+2026-01-05,Mumbai,herbs,Grocery,65
+2026-01-05,Mumbai,fruits,Grocery,134
+2026-01-05,Mumbai,veggies,Grocery,66
+2026-01-05,Mumbai,Milk,Dairy,176
+2026-01-05,Mumbai,Cheese,Dairy,55
+2026-01-05,Mumbai,Butter Milk,Dairy,121
+2026-01-05,Mumbai,Chips,Snacks,158
+2026-01-05,Mumbai,Nuts,Snacks,125
+2026-01-05,Mumbai,Cheetos,Snacks,290
+2026-01-05,Mumbai,M&M'S,Snacks,99
+2026-01-05,Mumbai,Soft Drinks,Beverages,200
+2026-01-05,Mumbai,Energy Drinks,Beverages,132
+2026-01-05,Mumbai,coffee&tea,Beverages,155
+2026-01-05,Mumbai,Shampoo,Personal Care,78
+2026-01-05,Mumbai,Lotion,Personal Care,55
+2026-01-05,Mumbai,Soap,Personal Care,107
+2026-01-05,Mumbai,Face Wash,Personal Care,57
+2026-01-05,Pune,cereals,Grocery,87
+2026-01-05,Pune,herbs,Grocery,71
+2026-01-05,Pune,fruits,Grocery,143
+2026-01-05,Pune,veggies,Grocery,41
+2026-01-05,Pune,Milk,Dairy,224
+2026-01-05,Pune,Cheese,Dairy,108
+2026-01-05,Pune,Butter Milk,Dairy,136
+2026-01-05,Pune,Chips,Snacks,117
+2026-01-05,Pune,Nuts,Snacks,177
+2026-01-05,Pune,Cheetos,Snacks,105
+2026-01-05,Pune,M&M'S,Snacks,93
+2026-01-05,Pune,Soft Drinks,Beverages,146
+2026-01-05,Pune,Energy Drinks,Beverages,138
+2026-01-05,Pune,coffee&tea,Beverages,128
+2026-01-05,Pune,Shampoo,Personal Care,96
+2026-01-05,Pune,Lotion,Personal Care,41
+2026-01-05,Pune,Soap,Personal Care,14
+2026-01-05,Pune,Face Wash,Personal Care,28
+2026-01-05,Delhi,cereals,Grocery,103
+2026-01-05,Delhi,herbs,Grocery,98
+2026-01-05,Delhi,fruits,Grocery,123
+2026-01-05,Delhi,veggies,Grocery,84
+2026-01-05,Delhi,Milk,Dairy,163
+2026-01-05,Delhi,Cheese,Dairy,86
+2026-01-05,Delhi,Butter Milk,Dairy,221
+2026-01-05,Delhi,Chips,Snacks,126
+2026-01-05,Delhi,Nuts,Snacks,175
+2026-01-05,Delhi,Cheetos,Snacks,51
+2026-01-05,Delhi,M&M'S,Snacks,119
+2026-01-05,Delhi,Soft Drinks,Beverages,192
+2026-01-05,Delhi,Energy Drinks,Beverages,145
+2026-01-05,Delhi,coffee&tea,Beverages,145
+2026-01-05,Delhi,Shampoo,Personal Care,204
+2026-01-05,Delhi,Lotion,Personal Care,65
+2026-01-05,Delhi,Soap,Personal Care,40
+2026-01-05,Delhi,Face Wash,Personal Care,58
+2026-01-05,Bangalore,cereals,Grocery,134
+2026-01-05,Bangalore,herbs,Grocery,108
+2026-01-05,Bangalore,fruits,Grocery,129
+2026-01-05,Bangalore,veggies,Grocery,121
+2026-01-05,Bangalore,Milk,Dairy,232
+2026-01-05,Bangalore,Cheese,Dairy,122
+2026-01-05,Bangalore,Butter Milk,Dairy,130
+2026-01-05,Bangalore,Chips,Snacks,148
+2026-01-05,Bangalore,Nuts,Snacks,143
+2026-01-05,Bangalore,Cheetos,Snacks,36
+2026-01-05,Bangalore,M&M'S,Snacks,128
+2026-01-05,Bangalore,Soft Drinks,Beverages,194
+2026-01-05,Bangalore,Energy Drinks,Beverages,199
+2026-01-05,Bangalore,coffee&tea,Beverages,120
+2026-01-05,Bangalore,Shampoo,Personal Care,129
+2026-01-05,Bangalore,Lotion,Personal Care,51
+2026-01-05,Bangalore,Soap,Personal Care,55
+2026-01-05,Bangalore,Face Wash,Personal Care,150
+2026-01-06,Mumbai,cereals,Grocery,86
+2026-01-06,Mumbai,herbs,Grocery,128
+2026-01-06,Mumbai,fruits,Grocery,168
+2026-01-06,Mumbai,veggies,Grocery,98
+2026-01-06,Mumbai,Milk,Dairy,176
+2026-01-06,Mumbai,Cheese,Dairy,109
+2026-01-06,Mumbai,Butter Milk,Dairy,112
+2026-01-06,Mumbai,Chips,Snacks,148
+2026-01-06,Mumbai,Nuts,Snacks,124
+2026-01-06,Mumbai,Cheetos,Snacks,131
+2026-01-06,Mumbai,M&M'S,Snacks,121
+2026-01-06,Mumbai,Soft Drinks,Beverages,62
+2026-01-06,Mumbai,Energy Drinks,Beverages,158
+2026-01-06,Mumbai,coffee&tea,Beverages,301
+2026-01-06,Mumbai,Shampoo,Personal Care,105
+2026-01-06,Mumbai,Lotion,Personal Care,69
+2026-01-06,Mumbai,Soap,Personal Care,34
+2026-01-06,Mumbai,Face Wash,Personal Care,34
+2026-01-06,Pune,cereals,Grocery,147
+2026-01-06,Pune,herbs,Grocery,87
+2026-01-06,Pune,fruits,Grocery,332
+2026-01-06,Pune,veggies,Grocery,127
+2026-01-06,Pune,Milk,Dairy,220
+2026-01-06,Pune,Cheese,Dairy,88
+2026-01-06,Pune,Butter Milk,Dairy,80
+2026-01-06,Pune,Chips,Snacks,180
+2026-01-06,Pune,Nuts,Snacks,119
+2026-01-06,Pune,Cheetos,Snacks,163
+2026-01-06,Pune,M&M'S,Snacks,240
+2026-01-06,Pune,Soft Drinks,Beverages,145
+2026-01-06,Pune,Energy Drinks,Beverages,168
+2026-01-06,Pune,coffee&tea,Beverages,160
+2026-01-06,Pune,Shampoo,Personal Care,111
+2026-01-06,Pune,Lotion,Personal Care,52
+2026-01-06,Pune,Soap,Personal Care,102
+2026-01-06,Pune,Face Wash,Personal Care,30
+2026-01-06,Delhi,cereals,Grocery,108
+2026-01-06,Delhi,herbs,Grocery,115
+2026-01-06,Delhi,fruits,Grocery,284
+2026-01-06,Delhi,veggies,Grocery,138
+2026-01-06,Delhi,Milk,Dairy,407
+2026-01-06,Delhi,Cheese,Dairy,109
+2026-01-06,Delhi,Butter Milk,Dairy,146
+2026-01-06,Delhi,Chips,Snacks,171
+2026-01-06,Delhi,Nuts,Snacks,155
+2026-01-06,Delhi,Cheetos,Snacks,166
+2026-01-06,Delhi,M&M'S,Snacks,98
+2026-01-06,Delhi,Soft Drinks,Beverages,198
+2026-01-06,Delhi,Energy Drinks,Beverages,164
+2026-01-06,Delhi,coffee&tea,Beverages,162
+2026-01-06,Delhi,Shampoo,Personal Care,54
+2026-01-06,Delhi,Lotion,Personal Care,70
+2026-01-06,Delhi,Soap,Personal Care,82
+2026-01-06,Delhi,Face Wash,Personal Care,21
+2026-01-06,Bangalore,cereals,Grocery,118
+2026-01-06,Bangalore,herbs,Grocery,66
+2026-01-06,Bangalore,fruits,Grocery,169
+2026-01-06,Bangalore,veggies,Grocery,229
+2026-01-06,Bangalore,Milk,Dairy,122
+2026-01-06,Bangalore,Cheese,Dairy,86
+2026-01-06,Bangalore,Butter Milk,Dairy,137
+2026-01-06,Bangalore,Chips,Snacks,131
+2026-01-06,Bangalore,Nuts,Snacks,121
+2026-01-06,Bangalore,Cheetos,Snacks,74
+2026-01-06,Bangalore,M&M'S,Snacks,155
+2026-01-06,Bangalore,Soft Drinks,Beverages,215
+2026-01-06,Bangalore,Energy Drinks,Beverages,125
+2026-01-06,Bangalore,coffee&tea,Beverages,174
+2026-01-06,Bangalore,Shampoo,Personal Care,95
+2026-01-06,Bangalore,Lotion,Personal Care,52
+2026-01-06,Bangalore,Soap,Personal Care,58
+2026-01-06,Bangalore,Face Wash,Personal Care,21
+2026-01-07,Mumbai,cereals,Grocery,154
+2026-01-07,Mumbai,herbs,Grocery,95
+2026-01-07,Mumbai,fruits,Grocery,189
+2026-01-07,Mumbai,veggies,Grocery,78
+2026-01-07,Mumbai,Milk,Dairy,160
+2026-01-07,Mumbai,Cheese,Dairy,83
+2026-01-07,Mumbai,Butter Milk,Dairy,39
+2026-01-07,Mumbai,Chips,Snacks,189
+2026-01-07,Mumbai,Nuts,Snacks,116
+2026-01-07,Mumbai,Cheetos,Snacks,116
+2026-01-07,Mumbai,M&M'S,Snacks,82
+2026-01-07,Mumbai,Soft Drinks,Beverages,163
+2026-01-07,Mumbai,Energy Drinks,Beverages,165
+2026-01-07,Mumbai,coffee&tea,Beverages,100
+2026-01-07,Mumbai,Shampoo,Personal Care,58
+2026-01-07,Mumbai,Lotion,Personal Care,102
+2026-01-07,Mumbai,Soap,Personal Care,31
+2026-01-07,Mumbai,Face Wash,Personal Care,96
+2026-01-07,Pune,cereals,Grocery,143
+2026-01-07,Pune,herbs,Grocery,77
+2026-01-07,Pune,fruits,Grocery,142
+2026-01-07,Pune,veggies,Grocery,70
+2026-01-07,Pune,Milk,Dairy,176
+2026-01-07,Pune,Cheese,Dairy,128
+2026-01-07,Pune,Butter Milk,Dairy,89
+2026-01-07,Pune,Chips,Snacks,111
+2026-01-07,Pune,Nuts,Snacks,129
+2026-01-07,Pune,Cheetos,Snacks,241
+2026-01-07,Pune,M&M'S,Snacks,125
+2026-01-07,Pune,Soft Drinks,Beverages,183
+2026-01-07,Pune,Energy Drinks,Beverages,186
+2026-01-07,Pune,coffee&tea,Beverages,172
+2026-01-07,Pune,Shampoo,Personal Care,125
+2026-01-07,Pune,Lotion,Personal Care,101
+2026-01-07,Pune,Soap,Personal Care,36
+2026-01-07,Pune,Face Wash,Personal Care,25
+2026-01-07,Delhi,cereals,Grocery,82
+2026-01-07,Delhi,herbs,Grocery,133
+2026-01-07,Delhi,fruits,Grocery,121
+2026-01-07,Delhi,veggies,Grocery,78
+2026-01-07,Delhi,Milk,Dairy,167
+2026-01-07,Delhi,Cheese,Dairy,81
+2026-01-07,Delhi,Butter Milk,Dairy,87
+2026-01-07,Delhi,Chips,Snacks,165
+2026-01-07,Delhi,Nuts,Snacks,173
+2026-01-07,Delhi,Cheetos,Snacks,143
+2026-01-07,Delhi,M&M'S,Snacks,275
+2026-01-07,Delhi,Soft Drinks,Beverages,197
+2026-01-07,Delhi,Energy Drinks,Beverages,123
+2026-01-07,Delhi,coffee&tea,Beverages,159
+2026-01-07,Delhi,Shampoo,Personal Care,175
+2026-01-07,Delhi,Lotion,Personal Care,185
+2026-01-07,Delhi,Soap,Personal Care,68
+2026-01-07,Delhi,Face Wash,Personal Care,31
+2026-01-07,Bangalore,cereals,Grocery,100
+2026-01-07,Bangalore,herbs,Grocery,47
+2026-01-07,Bangalore,fruits,Grocery,151
+2026-01-07,Bangalore,veggies,Grocery,96
+2026-01-07,Bangalore,Milk,Dairy,221
+2026-01-07,Bangalore,Cheese,Dairy,63
+2026-01-07,Bangalore,Butter Milk,Dairy,71
+2026-01-07,Bangalore,Chips,Snacks,137
+2026-01-07,Bangalore,Nuts,Snacks,164
+2026-01-07,Bangalore,Cheetos,Snacks,134
+2026-01-07,Bangalore,M&M'S,Snacks,89
+2026-01-07,Bangalore,Soft Drinks,Beverages,213
+2026-01-07,Bangalore,Energy Drinks,Beverages,120
+2026-01-07,Bangalore,coffee&tea,Beverages,175
+2026-01-07,Bangalore,Shampoo,Personal Care,77
+2026-01-07,Bangalore,Lotion,Personal Care,195
+2026-01-07,Bangalore,Soap,Personal Care,73
+2026-01-07,Bangalore,Face Wash,Personal Care,25
+2026-01-08,Mumbai,cereals,Grocery,157
+2026-01-08,Mumbai,herbs,Grocery,59
+2026-01-08,Mumbai,fruits,Grocery,144
+2026-01-08,Mumbai,veggies,Grocery,128
+2026-01-08,Mumbai,Milk,Dairy,171
+2026-01-08,Mumbai,Cheese,Dairy,92
+2026-01-08,Mumbai,Butter Milk,Dairy,208
+2026-01-08,Mumbai,Chips,Snacks,152
+2026-01-08,Mumbai,Nuts,Snacks,122
+2026-01-08,Mumbai,Cheetos,Snacks,299
+2026-01-08,Mumbai,M&M'S,Snacks,87
+2026-01-08,Mumbai,Soft Drinks,Beverages,147
+2026-01-08,Mumbai,Energy Drinks,Beverages,166
+2026-01-08,Mumbai,coffee&tea,Beverages,142
+2026-01-08,Mumbai,Shampoo,Personal Care,66
+2026-01-08,Mumbai,Lotion,Personal Care,115
+2026-01-08,Mumbai,Soap,Personal Care,97
+2026-01-08,Mumbai,Face Wash,Personal Care,99
+2026-01-08,Pune,cereals,Grocery,141
+2026-01-08,Pune,herbs,Grocery,109
+2026-01-08,Pune,fruits,Grocery,157
+2026-01-08,Pune,veggies,Grocery,90
+2026-01-08,Pune,Milk,Dairy,163
+2026-01-08,Pune,Cheese,Dairy,62
+2026-01-08,Pune,Butter Milk,Dairy,144
+2026-01-08,Pune,Chips,Snacks,180
+2026-01-08,Pune,Nuts,Snacks,315
+2026-01-08,Pune,Cheetos,Snacks,108
+2026-01-08,Pune,M&M'S,Snacks,128
+2026-01-08,Pune,Soft Drinks,Beverages,150
+2026-01-08,Pune,Energy Drinks,Beverages,193
+2026-01-08,Pune,coffee&tea,Beverages,125
+2026-01-08,Pune,Shampoo,Personal Care,77
+2026-01-08,Pune,Lotion,Personal Care,131
+2026-01-08,Pune,Soap,Personal Care,108
+2026-01-08,Pune,Face Wash,Personal Care,67
+2026-01-08,Delhi,cereals,Grocery,122
+2026-01-08,Delhi,herbs,Grocery,199
+2026-01-08,Delhi,fruits,Grocery,134
+2026-01-08,Delhi,veggies,Grocery,127
+2026-01-08,Delhi,Milk,Dairy,193
+2026-01-08,Delhi,Cheese,Dairy,101
+2026-01-08,Delhi,Butter Milk,Dairy,97
+2026-01-08,Delhi,Chips,Snacks,145
+2026-01-08,Delhi,Nuts,Snacks,176
+2026-01-08,Delhi,Cheetos,Snacks,164
+2026-01-08,Delhi,M&M'S,Snacks,118
+2026-01-08,Delhi,Soft Drinks,Beverages,195
+2026-01-08,Delhi,Energy Drinks,Beverages,175
+2026-01-08,Delhi,coffee&tea,Beverages,106
+2026-01-08,Delhi,Shampoo,Personal Care,94
+2026-01-08,Delhi,Lotion,Personal Care,61
+2026-01-08,Delhi,Soap,Personal Care,38
+2026-01-08,Delhi,Face Wash,Personal Care,61
+2026-01-08,Bangalore,cereals,Grocery,105
+2026-01-08,Bangalore,herbs,Grocery,63
+2026-01-08,Bangalore,fruits,Grocery,183
+2026-01-08,Bangalore,veggies,Grocery,133
+2026-01-08,Bangalore,Milk,Dairy,206
+2026-01-08,Bangalore,Cheese,Dairy,82
+2026-01-08,Bangalore,Butter Milk,Dairy,117
+2026-01-08,Bangalore,Chips,Snacks,180
+2026-01-08,Bangalore,Nuts,Snacks,177
+2026-01-08,Bangalore,Cheetos,Snacks,114
+2026-01-08,Bangalore,M&M'S,Snacks,97
+2026-01-08,Bangalore,Soft Drinks,Beverages,178
+2026-01-08,Bangalore,Energy Drinks,Beverages,63
+2026-01-08,Bangalore,coffee&tea,Beverages,141
+2026-01-08,Bangalore,Shampoo,Personal Care,85
+2026-01-08,Bangalore,Lotion,Personal Care,42
+2026-01-08,Bangalore,Soap,Personal Care,99
+2026-01-08,Bangalore,Face Wash,Personal Care,68
+2026-01-09,Mumbai,cereals,Grocery,123
+2026-01-09,Mumbai,herbs,Grocery,111
+2026-01-09,Mumbai,fruits,Grocery,167
+2026-01-09,Mumbai,veggies,Grocery,103
+2026-01-09,Mumbai,Milk,Dairy,189
+2026-01-09,Mumbai,Cheese,Dairy,107
+2026-01-09,Mumbai,Butter Milk,Dairy,100
+2026-01-09,Mumbai,Chips,Snacks,171
+2026-01-09,Mumbai,Nuts,Snacks,111
+2026-01-09,Mumbai,Cheetos,Snacks,92
+2026-01-09,Mumbai,M&M'S,Snacks,84
+2026-01-09,Mumbai,Soft Drinks,Beverages,204
+2026-01-09,Mumbai,Energy Drinks,Beverages,189
+2026-01-09,Mumbai,coffee&tea,Beverages,131
+2026-01-09,Mumbai,Shampoo,Personal Care,87
+2026-01-09,Mumbai,Lotion,Personal Care,75
+2026-01-09,Mumbai,Soap,Personal Care,95
+2026-01-09,Mumbai,Face Wash,Personal Care,92
+2026-01-09,Pune,cereals,Grocery,141
+2026-01-09,Pune,herbs,Grocery,94
+2026-01-09,Pune,fruits,Grocery,124
+2026-01-09,Pune,veggies,Grocery,71
+2026-01-09,Pune,Milk,Dairy,204
+2026-01-09,Pune,Cheese,Dairy,79
+2026-01-09,Pune,Butter Milk,Dairy,76
+2026-01-09,Pune,Chips,Snacks,130
+2026-01-09,Pune,Nuts,Snacks,274
+2026-01-09,Pune,Cheetos,Snacks,99
+2026-01-09,Pune,M&M'S,Snacks,133
+2026-01-09,Pune,Soft Drinks,Beverages,204
+2026-01-09,Pune,Energy Drinks,Beverages,171
+2026-01-09,Pune,coffee&tea,Beverages,124
+2026-01-09,Pune,Shampoo,Personal Care,70
+2026-01-09,Pune,Lotion,Personal Care,187
+2026-01-09,Pune,Soap,Personal Care,42
+2026-01-09,Pune,Face Wash,Personal Care,79
+2026-01-09,Delhi,cereals,Grocery,62
+2026-01-09,Delhi,herbs,Grocery,70
+2026-01-09,Delhi,fruits,Grocery,119
+2026-01-09,Delhi,veggies,Grocery,109
+2026-01-09,Delhi,Milk,Dairy,232
+2026-01-09,Delhi,Cheese,Dairy,70
+2026-01-09,Delhi,Butter Milk,Dairy,76
+2026-01-09,Delhi,Chips,Snacks,113
+2026-01-09,Delhi,Nuts,Snacks,151
+2026-01-09,Delhi,Cheetos,Snacks,127
+2026-01-09,Delhi,M&M'S,Snacks,142
+2026-01-09,Delhi,Soft Drinks,Beverages,146
+2026-01-09,Delhi,Energy Drinks,Beverages,190
+2026-01-09,Delhi,coffee&tea,Beverages,154
+2026-01-09,Delhi,Shampoo,Personal Care,128
+2026-01-09,Delhi,Lotion,Personal Care,78
+2026-01-09,Delhi,Soap,Personal Care,82
+2026-01-09,Delhi,Face Wash,Personal Care,55
+2026-01-09,Bangalore,cereals,Grocery,90
+2026-01-09,Bangalore,herbs,Grocery,94
+2026-01-09,Bangalore,fruits,Grocery,143
+2026-01-09,Bangalore,veggies,Grocery,111
+2026-01-09,Bangalore,Milk,Dairy,201
+2026-01-09,Bangalore,Cheese,Dairy,66
+2026-01-09,Bangalore,Butter Milk,Dairy,71
+2026-01-09,Bangalore,Chips,Snacks,119
+2026-01-09,Bangalore,Nuts,Snacks,120
+2026-01-09,Bangalore,Cheetos,Snacks,97
+2026-01-09,Bangalore,M&M'S,Snacks,158
+2026-01-09,Bangalore,Soft Drinks,Beverages,184
+2026-01-09,Bangalore,Energy Drinks,Beverages,184
+2026-01-09,Bangalore,coffee&tea,Beverages,101
+2026-01-09,Bangalore,Shampoo,Personal Care,100
+2026-01-09,Bangalore,Lotion,Personal Care,10
+2026-01-09,Bangalore,Soap,Personal Care,60
+2026-01-09,Bangalore,Face Wash,Personal Care,34
+2026-01-10,Mumbai,cereals,Grocery,166
+2026-01-10,Mumbai,herbs,Grocery,71
+2026-01-10,Mumbai,fruits,Grocery,64
+2026-01-10,Mumbai,veggies,Grocery,155
+2026-01-10,Mumbai,Milk,Dairy,125
+2026-01-10,Mumbai,Cheese,Dairy,117
+2026-01-10,Mumbai,Butter Milk,Dairy,112
+2026-01-10,Mumbai,Chips,Snacks,156
+2026-01-10,Mumbai,Nuts,Snacks,157
+2026-01-10,Mumbai,Cheetos,Snacks,139
+2026-01-10,Mumbai,M&M'S,Snacks,289
+2026-01-10,Mumbai,Soft Drinks,Beverages,252
+2026-01-10,Mumbai,Energy Drinks,Beverages,189
+2026-01-10,Mumbai,coffee&tea,Beverages,185
+2026-01-10,Mumbai,Shampoo,Personal Care,97
+2026-01-10,Mumbai,Lotion,Personal Care,102
+2026-01-10,Mumbai,Soap,Personal Care,68
+2026-01-10,Mumbai,Face Wash,Personal Care,45
+2026-01-10,Pune,cereals,Grocery,138
+2026-01-10,Pune,herbs,Grocery,85
+2026-01-10,Pune,fruits,Grocery,183
+2026-01-10,Pune,veggies,Grocery,168
+2026-01-10,Pune,Milk,Dairy,298
+2026-01-10,Pune,Cheese,Dairy,153
+2026-01-10,Pune,Butter Milk,Dairy,158
+2026-01-10,Pune,Chips,Snacks,177
+2026-01-10,Pune,Nuts,Snacks,166
+2026-01-10,Pune,Cheetos,Snacks,186
+2026-01-10,Pune,M&M'S,Snacks,276
+2026-01-10,Pune,Soft Drinks,Beverages,257
+2026-01-10,Pune,Energy Drinks,Beverages,177
+2026-01-10,Pune,coffee&tea,Beverages,168
+2026-01-10,Pune,Shampoo,Personal Care,85
+2026-01-10,Pune,Lotion,Personal Care,69
+2026-01-10,Pune,Soap,Personal Care,155
+2026-01-10,Pune,Face Wash,Personal Care,57
+2026-01-10,Delhi,cereals,Grocery,185
+2026-01-10,Delhi,herbs,Grocery,67
+2026-01-10,Delhi,fruits,Grocery,164
+2026-01-10,Delhi,veggies,Grocery,126
+2026-01-10,Delhi,Milk,Dairy,110
+2026-01-10,Delhi,Cheese,Dairy,253
+2026-01-10,Delhi,Butter Milk,Dairy,173
+2026-01-10,Delhi,Chips,Snacks,234
+2026-01-10,Delhi,Nuts,Snacks,165
+2026-01-10,Delhi,Cheetos,Snacks,159
+2026-01-10,Delhi,M&M'S,Snacks,334
+2026-01-10,Delhi,Soft Drinks,Beverages,269
+2026-01-10,Delhi,Energy Drinks,Beverages,198
+2026-01-10,Delhi,coffee&tea,Beverages,186
+2026-01-10,Delhi,Shampoo,Personal Care,131
+2026-01-10,Delhi,Lotion,Personal Care,110
+2026-01-10,Delhi,Soap,Personal Care,95
+2026-01-10,Delhi,Face Wash,Personal Care,57
+2026-01-10,Bangalore,cereals,Grocery,185
+2026-01-10,Bangalore,herbs,Grocery,72
+2026-01-10,Bangalore,fruits,Grocery,215
+2026-01-10,Bangalore,veggies,Grocery,159
+2026-01-10,Bangalore,Milk,Dairy,238
+2026-01-10,Bangalore,Cheese,Dairy,145
+2026-01-10,Bangalore,Butter Milk,Dairy,151
+2026-01-10,Bangalore,Chips,Snacks,224
+2026-01-10,Bangalore,Nuts,Snacks,89
+2026-01-10,Bangalore,Cheetos,Snacks,185
+2026-01-10,Bangalore,M&M'S,Snacks,317
+2026-01-10,Bangalore,Soft Drinks,Beverages,224
+2026-01-10,Bangalore,Energy Drinks,Beverages,197
+2026-01-10,Bangalore,coffee&tea,Beverages,57
+2026-01-10,Bangalore,Shampoo,Personal Care,86
+2026-01-10,Bangalore,Lotion,Personal Care,140
+2026-01-10,Bangalore,Soap,Personal Care,106
+2026-01-10,Bangalore,Face Wash,Personal Care,172
+2026-01-11,Mumbai,cereals,Grocery,122
+2026-01-11,Mumbai,herbs,Grocery,95
+2026-01-11,Mumbai,fruits,Grocery,169
+2026-01-11,Mumbai,veggies,Grocery,115
+2026-01-11,Mumbai,Milk,Dairy,276
+2026-01-11,Mumbai,Cheese,Dairy,145
+2026-01-11,Mumbai,Butter Milk,Dairy,151
+2026-01-11,Mumbai,Chips,Snacks,166
+2026-01-11,Mumbai,Nuts,Snacks,191
+2026-01-11,Mumbai,Cheetos,Snacks,199
+2026-01-11,Mumbai,M&M'S,Snacks,139
+2026-01-11,Mumbai,Soft Drinks,Beverages,251
+2026-01-11,Mumbai,Energy Drinks,Beverages,216
+2026-01-11,Mumbai,coffee&tea,Beverages,211
+2026-01-11,Mumbai,Shampoo,Personal Care,81
+2026-01-11,Mumbai,Lotion,Personal Care,129
+2026-01-11,Mumbai,Soap,Personal Care,101
+2026-01-11,Mumbai,Face Wash,Personal Care,77
+2026-01-11,Pune,cereals,Grocery,179
+2026-01-11,Pune,herbs,Grocery,95
+2026-01-11,Pune,fruits,Grocery,222
+2026-01-11,Pune,veggies,Grocery,168
+2026-01-11,Pune,Milk,Dairy,246
+2026-01-11,Pune,Cheese,Dairy,104
+2026-01-11,Pune,Butter Milk,Dairy,55
+2026-01-11,Pune,Chips,Snacks,198
+2026-01-11,Pune,Nuts,Snacks,147
+2026-01-11,Pune,Cheetos,Snacks,178
+2026-01-11,Pune,M&M'S,Snacks,126
+2026-01-11,Pune,Soft Drinks,Beverages,217
+2026-01-11,Pune,Energy Drinks,Beverages,239
+2026-01-11,Pune,coffee&tea,Beverages,189
+2026-01-11,Pune,Shampoo,Personal Care,136
+2026-01-11,Pune,Lotion,Personal Care,70
+2026-01-11,Pune,Soap,Personal Care,77
+2026-01-11,Pune,Face Wash,Personal Care,70
+2026-01-11,Delhi,cereals,Grocery,45
+2026-01-11,Delhi,herbs,Grocery,67
+2026-01-11,Delhi,fruits,Grocery,173
+2026-01-11,Delhi,veggies,Grocery,135
+2026-01-11,Delhi,Milk,Dairy,240
+2026-01-11,Delhi,Cheese,Dairy,104
+2026-01-11,Delhi,Butter Milk,Dairy,129
+2026-01-11,Delhi,Chips,Snacks,222
+2026-01-11,Delhi,Nuts,Snacks,146
+2026-01-11,Delhi,Cheetos,Snacks,137
+2026-01-11,Delhi,M&M'S,Snacks,175
+2026-01-11,Delhi,Soft Drinks,Beverages,240
+2026-01-11,Delhi,Energy Drinks,Beverages,170
+2026-01-11,Delhi,coffee&tea,Beverages,162
+2026-01-11,Delhi,Shampoo,Personal Care,109
+2026-01-11,Delhi,Lotion,Personal Care,104
+2026-01-11,Delhi,Soap,Personal Care,125
+2026-01-11,Delhi,Face Wash,Personal Care,59
+2026-01-11,Bangalore,cereals,Grocery,130
+2026-01-11,Bangalore,herbs,Grocery,27
+2026-01-11,Bangalore,fruits,Grocery,182
+2026-01-11,Bangalore,veggies,Grocery,109
+2026-01-11,Bangalore,Milk,Dairy,282
+2026-01-11,Bangalore,Cheese,Dairy,123
+2026-01-11,Bangalore,Butter Milk,Dairy,159
+2026-01-11,Bangalore,Chips,Snacks,168
+2026-01-11,Bangalore,Nuts,Snacks,150
+2026-01-11,Bangalore,Cheetos,Snacks,134
+2026-01-11,Bangalore,M&M'S,Snacks,161
+2026-01-11,Bangalore,Soft Drinks,Beverages,265
+2026-01-11,Bangalore,Energy Drinks,Beverages,245
+2026-01-11,Bangalore,coffee&tea,Beverages,90
+2026-01-11,Bangalore,Shampoo,Personal Care,98
+2026-01-11,Bangalore,Lotion,Personal Care,114
+2026-01-11,Bangalore,Soap,Personal Care,78
+2026-01-11,Bangalore,Face Wash,Personal Care,178
+2026-01-12,Mumbai,cereals,Grocery,98
+2026-01-12,Mumbai,herbs,Grocery,77
+2026-01-12,Mumbai,fruits,Grocery,139
+2026-01-12,Mumbai,veggies,Grocery,211
+2026-01-12,Mumbai,Milk,Dairy,218
+2026-01-12,Mumbai,Cheese,Dairy,117
+2026-01-12,Mumbai,Butter Milk,Dairy,110
+2026-01-12,Mumbai,Chips,Snacks,125
+2026-01-12,Mumbai,Nuts,Snacks,129
+2026-01-12,Mumbai,Cheetos,Snacks,139
+2026-01-12,Mumbai,M&M'S,Snacks,127
+2026-01-12,Mumbai,Soft Drinks,Beverages,172
+2026-01-12,Mumbai,Energy Drinks,Beverages,128
+2026-01-12,Mumbai,coffee&tea,Beverages,164
+2026-01-12,Mumbai,Shampoo,Personal Care,179
+2026-01-12,Mumbai,Lotion,Personal Care,86
+2026-01-12,Mumbai,Soap,Personal Care,81
+2026-01-12,Mumbai,Face Wash,Personal Care,70
+2026-01-12,Pune,cereals,Grocery,130
+2026-01-12,Pune,herbs,Grocery,67
+2026-01-12,Pune,fruits,Grocery,176
+2026-01-12,Pune,veggies,Grocery,93
+2026-01-12,Pune,Milk,Dairy,231
+2026-01-12,Pune,Cheese,Dairy,74
+2026-01-12,Pune,Butter Milk,Dairy,75
+2026-01-12,Pune,Chips,Snacks,324
+2026-01-12,Pune,Nuts,Snacks,139
+2026-01-12,Pune,Cheetos,Snacks,145
+2026-01-12,Pune,M&M'S,Snacks,128
+2026-01-12,Pune,Soft Drinks,Beverages,362
+2026-01-12,Pune,Energy Drinks,Beverages,158
+2026-01-12,Pune,coffee&tea,Beverages,161
+2026-01-12,Pune,Shampoo,Personal Care,13
+2026-01-12,Pune,Lotion,Personal Care,56
+2026-01-12,Pune,Soap,Personal Care,68
+2026-01-12,Pune,Face Wash,Personal Care,53
+2026-01-12,Delhi,cereals,Grocery,156
+2026-01-12,Delhi,herbs,Grocery,79
+2026-01-12,Delhi,fruits,Grocery,181
+2026-01-12,Delhi,veggies,Grocery,120
+2026-01-12,Delhi,Milk,Dairy,228
+2026-01-12,Delhi,Cheese,Dairy,169
+2026-01-12,Delhi,Butter Milk,Dairy,116
+2026-01-12,Delhi,Chips,Snacks,177
+2026-01-12,Delhi,Nuts,Snacks,118
+2026-01-12,Delhi,Cheetos,Snacks,165
+2026-01-12,Delhi,M&M'S,Snacks,118
+2026-01-12,Delhi,Soft Drinks,Beverages,213
+2026-01-12,Delhi,Energy Drinks,Beverages,129
+2026-01-12,Delhi,coffee&tea,Beverages,172
+2026-01-12,Delhi,Shampoo,Personal Care,119
+2026-01-12,Delhi,Lotion,Personal Care,77
+2026-01-12,Delhi,Soap,Personal Care,31
+2026-01-12,Delhi,Face Wash,Personal Care,114
+2026-01-12,Bangalore,cereals,Grocery,158
+2026-01-12,Bangalore,herbs,Grocery,168
+2026-01-12,Bangalore,fruits,Grocery,133
+2026-01-12,Bangalore,veggies,Grocery,113
+2026-01-12,Bangalore,Milk,Dairy,204
+2026-01-12,Bangalore,Cheese,Dairy,79
+2026-01-12,Bangalore,Butter Milk,Dairy,136
+2026-01-12,Bangalore,Chips,Snacks,150
+2026-01-12,Bangalore,Nuts,Snacks,147
+2026-01-12,Bangalore,Cheetos,Snacks,252
+2026-01-12,Bangalore,M&M'S,Snacks,107
+2026-01-12,Bangalore,Soft Drinks,Beverages,195
+2026-01-12,Bangalore,Energy Drinks,Beverages,138
+2026-01-12,Bangalore,coffee&tea,Beverages,274
+2026-01-12,Bangalore,Shampoo,Personal Care,60
+2026-01-12,Bangalore,Lotion,Personal Care,108
+2026-01-12,Bangalore,Soap,Personal Care,85
+2026-01-12,Bangalore,Face Wash,Personal Care,23
+2026-01-13,Mumbai,cereals,Grocery,109
+2026-01-13,Mumbai,herbs,Grocery,194
+2026-01-13,Mumbai,fruits,Grocery,155
+2026-01-13,Mumbai,veggies,Grocery,210
+2026-01-13,Mumbai,Milk,Dairy,374
+2026-01-13,Mumbai,Cheese,Dairy,86
+2026-01-13,Mumbai,Butter Milk,Dairy,75
+2026-01-13,Mumbai,Chips,Snacks,138
+2026-01-13,Mumbai,Nuts,Snacks,116
+2026-01-13,Mumbai,Cheetos,Snacks,157
+2026-01-13,Mumbai,M&M'S,Snacks,92
+2026-01-13,Mumbai,Soft Drinks,Beverages,190
+2026-01-13,Mumbai,Energy Drinks,Beverages,170
+2026-01-13,Mumbai,coffee&tea,Beverages,120
+2026-01-13,Mumbai,Shampoo,Personal Care,50
+2026-01-13,Mumbai,Lotion,Personal Care,52
+2026-01-13,Mumbai,Soap,Personal Care,80
+2026-01-13,Mumbai,Face Wash,Personal Care,43
+2026-01-13,Pune,cereals,Grocery,87
+2026-01-13,Pune,herbs,Grocery,155
+2026-01-13,Pune,fruits,Grocery,120
+2026-01-13,Pune,veggies,Grocery,80
+2026-01-13,Pune,Milk,Dairy,164
+2026-01-13,Pune,Cheese,Dairy,95
+2026-01-13,Pune,Butter Milk,Dairy,198
+2026-01-13,Pune,Chips,Snacks,161
+2026-01-13,Pune,Nuts,Snacks,174
+2026-01-13,Pune,Cheetos,Snacks,104
+2026-01-13,Pune,M&M'S,Snacks,130
+2026-01-13,Pune,Soft Drinks,Beverages,190
+2026-01-13,Pune,Energy Drinks,Beverages,126
+2026-01-13,Pune,coffee&tea,Beverages,172
+2026-01-13,Pune,Shampoo,Personal Care,76
+2026-01-13,Pune,Lotion,Personal Care,98
+2026-01-13,Pune,Soap,Personal Care,160
+2026-01-13,Pune,Face Wash,Personal Care,11
+2026-01-13,Delhi,cereals,Grocery,133
+2026-01-13,Delhi,herbs,Grocery,60
+2026-01-13,Delhi,fruits,Grocery,133
+2026-01-13,Delhi,veggies,Grocery,106
+2026-01-13,Delhi,Milk,Dairy,185
+2026-01-13,Delhi,Cheese,Dairy,56
+2026-01-13,Delhi,Butter Milk,Dairy,216
+2026-01-13,Delhi,Chips,Snacks,117
+2026-01-13,Delhi,Nuts,Snacks,100
+2026-01-13,Delhi,Cheetos,Snacks,112
+2026-01-13,Delhi,M&M'S,Snacks,83
+2026-01-13,Delhi,Soft Drinks,Beverages,211
+2026-01-13,Delhi,Energy Drinks,Beverages,164
+2026-01-13,Delhi,coffee&tea,Beverages,45
+2026-01-13,Delhi,Shampoo,Personal Care,83
+2026-01-13,Delhi,Lotion,Personal Care,99
+2026-01-13,Delhi,Soap,Personal Care,85
+2026-01-13,Delhi,Face Wash,Personal Care,58
+2026-01-13,Bangalore,cereals,Grocery,134
+2026-01-13,Bangalore,herbs,Grocery,92
+2026-01-13,Bangalore,fruits,Grocery,139
+2026-01-13,Bangalore,veggies,Grocery,112
+2026-01-13,Bangalore,Milk,Dairy,190
+2026-01-13,Bangalore,Cheese,Dairy,111
+2026-01-13,Bangalore,Butter Milk,Dairy,123
+2026-01-13,Bangalore,Chips,Snacks,123
+2026-01-13,Bangalore,Nuts,Snacks,152
+2026-01-13,Bangalore,Cheetos,Snacks,152
+2026-01-13,Bangalore,M&M'S,Snacks,87
+2026-01-13,Bangalore,Soft Drinks,Beverages,217
+2026-01-13,Bangalore,Energy Drinks,Beverages,194
+2026-01-13,Bangalore,coffee&tea,Beverages,156
+2026-01-13,Bangalore,Shampoo,Personal Care,165
+2026-01-13,Bangalore,Lotion,Personal Care,89
+2026-01-13,Bangalore,Soap,Personal Care,73
+2026-01-13,Bangalore,Face Wash,Personal Care,30
+2026-01-14,Mumbai,cereals,Grocery,88
+2026-01-14,Mumbai,herbs,Grocery,54
+2026-01-14,Mumbai,fruits,Grocery,179
+2026-01-14,Mumbai,veggies,Grocery,96
+2026-01-14,Mumbai,Milk,Dairy,88
+2026-01-14,Mumbai,Cheese,Dairy,104
+2026-01-14,Mumbai,Butter Milk,Dairy,200
+2026-01-14,Mumbai,Chips,Snacks,133
+2026-01-14,Mumbai,Nuts,Snacks,146
+2026-01-14,Mumbai,Cheetos,Snacks,101
+2026-01-14,Mumbai,M&M'S,Snacks,127
+2026-01-14,Mumbai,Soft Drinks,Beverages,186
+2026-01-14,Mumbai,Energy Drinks,Beverages,190
+2026-01-14,Mumbai,coffee&tea,Beverages,112
+2026-01-14,Mumbai,Shampoo,Personal Care,58
+2026-01-14,Mumbai,Lotion,Personal Care,95
+2026-01-14,Mumbai,Soap,Personal Care,74
+2026-01-14,Mumbai,Face Wash,Personal Care,87
+2026-01-14,Pune,cereals,Grocery,107
+2026-01-14,Pune,herbs,Grocery,67
+2026-01-14,Pune,fruits,Grocery,130
+2026-01-14,Pune,veggies,Grocery,116
+2026-01-14,Pune,Milk,Dairy,212
+2026-01-14,Pune,Cheese,Dairy,95
+2026-01-14,Pune,Butter Milk,Dairy,71
+2026-01-14,Pune,Chips,Snacks,269
+2026-01-14,Pune,Nuts,Snacks,256
+2026-01-14,Pune,Cheetos,Snacks,118
+2026-01-14,Pune,M&M'S,Snacks,139
+2026-01-14,Pune,Soft Drinks,Beverages,167
+2026-01-14,Pune,Energy Drinks,Beverages,177
+2026-01-14,Pune,coffee&tea,Beverages,141
+2026-01-14,Pune,Shampoo,Personal Care,83
+2026-01-14,Pune,Lotion,Personal Care,64
+2026-01-14,Pune,Soap,Personal Care,86
+2026-01-14,Pune,Face Wash,Personal Care,32
+2026-01-14,Delhi,cereals,Grocery,130
+2026-01-14,Delhi,herbs,Grocery,191
+2026-01-14,Delhi,fruits,Grocery,176
+2026-01-14,Delhi,veggies,Grocery,87
+2026-01-14,Delhi,Milk,Dairy,203
+2026-01-14,Delhi,Cheese,Dairy,58
+2026-01-14,Delhi,Butter Milk,Dairy,119
+2026-01-14,Delhi,Chips,Snacks,131
+2026-01-14,Delhi,Nuts,Snacks,170
+2026-01-14,Delhi,Cheetos,Snacks,99
+2026-01-14,Delhi,M&M'S,Snacks,156
+2026-01-14,Delhi,Soft Drinks,Beverages,167
+2026-01-14,Delhi,Energy Drinks,Beverages,166
+2026-01-14,Delhi,coffee&tea,Beverages,159
+2026-01-14,Delhi,Shampoo,Personal Care,95
+2026-01-14,Delhi,Lotion,Personal Care,44
+2026-01-14,Delhi,Soap,Personal Care,83
+2026-01-14,Delhi,Face Wash,Personal Care,34
+2026-01-14,Bangalore,cereals,Grocery,125
+2026-01-14,Bangalore,herbs,Grocery,101
+2026-01-14,Bangalore,fruits,Grocery,122
+2026-01-14,Bangalore,veggies,Grocery,65
+2026-01-14,Bangalore,Milk,Dairy,192
+2026-01-14,Bangalore,Cheese,Dairy,99
+2026-01-14,Bangalore,Butter Milk,Dairy,139
+2026-01-14,Bangalore,Chips,Snacks,157
+2026-01-14,Bangalore,Nuts,Snacks,161
+2026-01-14,Bangalore,Cheetos,Snacks,107
+2026-01-14,Bangalore,M&M'S,Snacks,105
+2026-01-14,Bangalore,Soft Drinks,Beverages,348
+2026-01-14,Bangalore,Energy Drinks,Beverages,162
+2026-01-14,Bangalore,coffee&tea,Beverages,107
+2026-01-14,Bangalore,Shampoo,Personal Care,114
+2026-01-14,Bangalore,Lotion,Personal Care,83
+2026-01-14,Bangalore,Soap,Personal Care,57
+2026-01-14,Bangalore,Face Wash,Personal Care,61
+2026-01-15,Mumbai,cereals,Grocery,151
+2026-01-15,Mumbai,herbs,Grocery,66
+2026-01-15,Mumbai,fruits,Grocery,272
+2026-01-15,Mumbai,veggies,Grocery,213
+2026-01-15,Mumbai,Milk,Dairy,160
+2026-01-15,Mumbai,Cheese,Dairy,206
+2026-01-15,Mumbai,Butter Milk,Dairy,104
+2026-01-15,Mumbai,Chips,Snacks,187
+2026-01-15,Mumbai,Nuts,Snacks,152
+2026-01-15,Mumbai,Cheetos,Snacks,90
+2026-01-15,Mumbai,M&M'S,Snacks,89
+2026-01-15,Mumbai,Soft Drinks,Beverages,144
+2026-01-15,Mumbai,Energy Drinks,Beverages,320
+2026-01-15,Mumbai,coffee&tea,Beverages,110
+2026-01-15,Mumbai,Shampoo,Personal Care,125
+2026-01-15,Mumbai,Lotion,Personal Care,99
+2026-01-15,Mumbai,Soap,Personal Care,55
+2026-01-15,Mumbai,Face Wash,Personal Care,23
+2026-01-15,Pune,cereals,Grocery,87
+2026-01-15,Pune,herbs,Grocery,85
+2026-01-15,Pune,fruits,Grocery,177
+2026-01-15,Pune,veggies,Grocery,60
+2026-01-15,Pune,Milk,Dairy,199
+2026-01-15,Pune,Cheese,Dairy,163
+2026-01-15,Pune,Butter Milk,Dairy,103
+2026-01-15,Pune,Chips,Snacks,132
+2026-01-15,Pune,Nuts,Snacks,152
+2026-01-15,Pune,Cheetos,Snacks,84
+2026-01-15,Pune,M&M'S,Snacks,89
+2026-01-15,Pune,Soft Drinks,Beverages,200
+2026-01-15,Pune,Energy Drinks,Beverages,166
+2026-01-15,Pune,coffee&tea,Beverages,135
+2026-01-15,Pune,Shampoo,Personal Care,107
+2026-01-15,Pune,Lotion,Personal Care,64
+2026-01-15,Pune,Soap,Personal Care,86
+2026-01-15,Pune,Face Wash,Personal Care,58
+2026-01-15,Delhi,cereals,Grocery,133
+2026-01-15,Delhi,herbs,Grocery,98
+2026-01-15,Delhi,fruits,Grocery,141
+2026-01-15,Delhi,veggies,Grocery,68
+2026-01-15,Delhi,Milk,Dairy,176
+2026-01-15,Delhi,Cheese,Dairy,74
+2026-01-15,Delhi,Butter Milk,Dairy,134
+2026-01-15,Delhi,Chips,Snacks,175
+2026-01-15,Delhi,Nuts,Snacks,169
+2026-01-15,Delhi,Cheetos,Snacks,128
+2026-01-15,Delhi,M&M'S,Snacks,113
+2026-01-15,Delhi,Soft Drinks,Beverages,152
+2026-01-15,Delhi,Energy Drinks,Beverages,122
+2026-01-15,Delhi,coffee&tea,Beverages,146
+2026-01-15,Delhi,Shampoo,Personal Care,116
+2026-01-15,Delhi,Lotion,Personal Care,107
+2026-01-15,Delhi,Soap,Personal Care,29
+2026-01-15,Delhi,Face Wash,Personal Care,93
+2026-01-15,Bangalore,cereals,Grocery,138
+2026-01-15,Bangalore,herbs,Grocery,88
+2026-01-15,Bangalore,fruits,Grocery,178
+2026-01-15,Bangalore,veggies,Grocery,72
+2026-01-15,Bangalore,Milk,Dairy,178
+2026-01-15,Bangalore,Cheese,Dairy,123
+2026-01-15,Bangalore,Butter Milk,Dairy,113
+2026-01-15,Bangalore,Chips,Snacks,166
+2026-01-15,Bangalore,Nuts,Snacks,155
+2026-01-15,Bangalore,Cheetos,Snacks,140
+2026-01-15,Bangalore,M&M'S,Snacks,211
+2026-01-15,Bangalore,Soft Drinks,Beverages,166
+2026-01-15,Bangalore,Energy Drinks,Beverages,124
+2026-01-15,Bangalore,coffee&tea,Beverages,158
+2026-01-15,Bangalore,Shampoo,Personal Care,68
+2026-01-15,Bangalore,Lotion,Personal Care,86
+2026-01-15,Bangalore,Soap,Personal Care,83
+2026-01-15,Bangalore,Face Wash,Personal Care,38
+2026-01-16,Mumbai,cereals,Grocery,99
+2026-01-16,Mumbai,herbs,Grocery,113
+2026-01-16,Mumbai,fruits,Grocery,96
+2026-01-16,Mumbai,veggies,Grocery,65
+2026-01-16,Mumbai,Milk,Dairy,200
+2026-01-16,Mumbai,Cheese,Dairy,90
+2026-01-16,Mumbai,Butter Milk,Dairy,140
+2026-01-16,Mumbai,Chips,Snacks,144
+2026-01-16,Mumbai,Nuts,Snacks,173
+2026-01-16,Mumbai,Cheetos,Snacks,144
+2026-01-16,Mumbai,M&M'S,Snacks,99
+2026-01-16,Mumbai,Soft Drinks,Beverages,158
+2026-01-16,Mumbai,Energy Drinks,Beverages,149
+2026-01-16,Mumbai,coffee&tea,Beverages,105
+2026-01-16,Mumbai,Shampoo,Personal Care,97
+2026-01-16,Mumbai,Lotion,Personal Care,98
+2026-01-16,Mumbai,Soap,Personal Care,94
+2026-01-16,Mumbai,Face Wash,Personal Care,72
+2026-01-16,Pune,cereals,Grocery,127
+2026-01-16,Pune,herbs,Grocery,149
+2026-01-16,Pune,fruits,Grocery,154
+2026-01-16,Pune,veggies,Grocery,95
+2026-01-16,Pune,Milk,Dairy,232
+2026-01-16,Pune,Cheese,Dairy,81
+2026-01-16,Pune,Butter Milk,Dairy,143
+2026-01-16,Pune,Chips,Snacks,294
+2026-01-16,Pune,Nuts,Snacks,124
+2026-01-16,Pune,Cheetos,Snacks,162
+2026-01-16,Pune,M&M'S,Snacks,96
+2026-01-16,Pune,Soft Drinks,Beverages,189
+2026-01-16,Pune,Energy Drinks,Beverages,142
+2026-01-16,Pune,coffee&tea,Beverages,162
+2026-01-16,Pune,Shampoo,Personal Care,47
+2026-01-16,Pune,Lotion,Personal Care,100
+2026-01-16,Pune,Soap,Personal Care,62
+2026-01-16,Pune,Face Wash,Personal Care,67
+2026-01-16,Delhi,cereals,Grocery,98
+2026-01-16,Delhi,herbs,Grocery,85
+2026-01-16,Delhi,fruits,Grocery,117
+2026-01-16,Delhi,veggies,Grocery,132
+2026-01-16,Delhi,Milk,Dairy,198
+2026-01-16,Delhi,Cheese,Dairy,103
+2026-01-16,Delhi,Butter Milk,Dairy,73
+2026-01-16,Delhi,Chips,Snacks,169
+2026-01-16,Delhi,Nuts,Snacks,136
+2026-01-16,Delhi,Cheetos,Snacks,152
+2026-01-16,Delhi,M&M'S,Snacks,136
+2026-01-16,Delhi,Soft Drinks,Beverages,146
+2026-01-16,Delhi,Energy Drinks,Beverages,187
+2026-01-16,Delhi,coffee&tea,Beverages,102
+2026-01-16,Delhi,Shampoo,Personal Care,50
+2026-01-16,Delhi,Lotion,Personal Care,68
+2026-01-16,Delhi,Soap,Personal Care,50
+2026-01-16,Delhi,Face Wash,Personal Care,66
+2026-01-16,Bangalore,cereals,Grocery,148
+2026-01-16,Bangalore,herbs,Grocery,146
+2026-01-16,Bangalore,fruits,Grocery,130
+2026-01-16,Bangalore,veggies,Grocery,84
+2026-01-16,Bangalore,Milk,Dairy,214
+2026-01-16,Bangalore,Cheese,Dairy,98
+2026-01-16,Bangalore,Butter Milk,Dairy,130
+2026-01-16,Bangalore,Chips,Snacks,144
+2026-01-16,Bangalore,Nuts,Snacks,104
+2026-01-16,Bangalore,Cheetos,Snacks,169
+2026-01-16,Bangalore,M&M'S,Snacks,152
+2026-01-16,Bangalore,Soft Drinks,Beverages,152
+2026-01-16,Bangalore,Energy Drinks,Beverages,142
+2026-01-16,Bangalore,coffee&tea,Beverages,165
+2026-01-16,Bangalore,Shampoo,Personal Care,71
+2026-01-16,Bangalore,Lotion,Personal Care,71
+2026-01-16,Bangalore,Soap,Personal Care,39
+2026-01-16,Bangalore,Face Wash,Personal Care,53
+2026-01-17,Mumbai,cereals,Grocery,193
+2026-01-17,Mumbai,herbs,Grocery,82
+2026-01-17,Mumbai,fruits,Grocery,178
+2026-01-17,Mumbai,veggies,Grocery,136
+2026-01-17,Mumbai,Milk,Dairy,286
+2026-01-17,Mumbai,Cheese,Dairy,141
+2026-01-17,Mumbai,Butter Milk,Dairy,115
+2026-01-17,Mumbai,Chips,Snacks,202
+2026-01-17,Mumbai,Nuts,Snacks,205
+2026-01-17,Mumbai,Cheetos,Snacks,154
+2026-01-17,Mumbai,M&M'S,Snacks,141
+2026-01-17,Mumbai,Soft Drinks,Beverages,242
+2026-01-17,Mumbai,Energy Drinks,Beverages,229
+2026-01-17,Mumbai,coffee&tea,Beverages,144
+2026-01-17,Mumbai,Shampoo,Personal Care,108
+2026-01-17,Mumbai,Lotion,Personal Care,117
+2026-01-17,Mumbai,Soap,Personal Care,115
+2026-01-17,Mumbai,Face Wash,Personal Care,78
+2026-01-17,Pune,cereals,Grocery,186
+2026-01-17,Pune,herbs,Grocery,129
+2026-01-17,Pune,fruits,Grocery,165
+2026-01-17,Pune,veggies,Grocery,107
+2026-01-17,Pune,Milk,Dairy,227
+2026-01-17,Pune,Cheese,Dairy,133
+2026-01-17,Pune,Butter Milk,Dairy,159
+2026-01-17,Pune,Chips,Snacks,231
+2026-01-17,Pune,Nuts,Snacks,205
+2026-01-17,Pune,Cheetos,Snacks,110
+2026-01-17,Pune,M&M'S,Snacks,179
+2026-01-17,Pune,Soft Drinks,Beverages,197
+2026-01-17,Pune,Energy Drinks,Beverages,197
+2026-01-17,Pune,coffee&tea,Beverages,190
+2026-01-17,Pune,Shampoo,Personal Care,137
+2026-01-17,Pune,Lotion,Personal Care,47
+2026-01-17,Pune,Soap,Personal Care,95
+2026-01-17,Pune,Face Wash,Personal Care,101
+2026-01-17,Delhi,cereals,Grocery,124
+2026-01-17,Delhi,herbs,Grocery,121
+2026-01-17,Delhi,fruits,Grocery,157
+2026-01-17,Delhi,veggies,Grocery,151
+2026-01-17,Delhi,Milk,Dairy,232
+2026-01-17,Delhi,Cheese,Dairy,135
+2026-01-17,Delhi,Butter Milk,Dairy,104
+2026-01-17,Delhi,Chips,Snacks,198
+2026-01-17,Delhi,Nuts,Snacks,143
+2026-01-17,Delhi,Cheetos,Snacks,151
+2026-01-17,Delhi,M&M'S,Snacks,177
+2026-01-17,Delhi,Soft Drinks,Beverages,231
+2026-01-17,Delhi,Energy Drinks,Beverages,212
+2026-01-17,Delhi,coffee&tea,Beverages,154
+2026-01-17,Delhi,Shampoo,Personal Care,150
+2026-01-17,Delhi,Lotion,Personal Care,67
+2026-01-17,Delhi,Soap,Personal Care,126
+2026-01-17,Delhi,Face Wash,Personal Care,74
+2026-01-17,Bangalore,cereals,Grocery,58
+2026-01-17,Bangalore,herbs,Grocery,123
+2026-01-17,Bangalore,fruits,Grocery,355
+2026-01-17,Bangalore,veggies,Grocery,118
+2026-01-17,Bangalore,Milk,Dairy,237
+2026-01-17,Bangalore,Cheese,Dairy,130
+2026-01-17,Bangalore,Butter Milk,Dairy,129
+2026-01-17,Bangalore,Chips,Snacks,185
+2026-01-17,Bangalore,Nuts,Snacks,208
+2026-01-17,Bangalore,Cheetos,Snacks,143
+2026-01-17,Bangalore,M&M'S,Snacks,150
+2026-01-17,Bangalore,Soft Drinks,Beverages,481
+2026-01-17,Bangalore,Energy Drinks,Beverages,215
+2026-01-17,Bangalore,coffee&tea,Beverages,81
+2026-01-17,Bangalore,Shampoo,Personal Care,108
+2026-01-17,Bangalore,Lotion,Personal Care,121
+2026-01-17,Bangalore,Soap,Personal Care,60
+2026-01-17,Bangalore,Face Wash,Personal Care,66
+2026-01-18,Mumbai,cereals,Grocery,189
+2026-01-18,Mumbai,herbs,Grocery,111
+2026-01-18,Mumbai,fruits,Grocery,209
+2026-01-18,Mumbai,veggies,Grocery,94
+2026-01-18,Mumbai,Milk,Dairy,223
+2026-01-18,Mumbai,Cheese,Dairy,114
+2026-01-18,Mumbai,Butter Milk,Dairy,113
+2026-01-18,Mumbai,Chips,Snacks,208
+2026-01-18,Mumbai,Nuts,Snacks,162
+2026-01-18,Mumbai,Cheetos,Snacks,187
+2026-01-18,Mumbai,M&M'S,Snacks,189
+2026-01-18,Mumbai,Soft Drinks,Beverages,264
+2026-01-18,Mumbai,Energy Drinks,Beverages,243
+2026-01-18,Mumbai,coffee&tea,Beverages,369
+2026-01-18,Mumbai,Shampoo,Personal Care,50
+2026-01-18,Mumbai,Lotion,Personal Care,75
+2026-01-18,Mumbai,Soap,Personal Care,88
+2026-01-18,Mumbai,Face Wash,Personal Care,50
+2026-01-18,Pune,cereals,Grocery,181
+2026-01-18,Pune,herbs,Grocery,135
+2026-01-18,Pune,fruits,Grocery,174
+2026-01-18,Pune,veggies,Grocery,249
+2026-01-18,Pune,Milk,Dairy,274
+2026-01-18,Pune,Cheese,Dairy,83
+2026-01-18,Pune,Butter Milk,Dairy,158
+2026-01-18,Pune,Chips,Snacks,227
+2026-01-18,Pune,Nuts,Snacks,107
+2026-01-18,Pune,Cheetos,Snacks,148
+2026-01-18,Pune,M&M'S,Snacks,127
+2026-01-18,Pune,Soft Drinks,Beverages,222
+2026-01-18,Pune,Energy Drinks,Beverages,217
+2026-01-18,Pune,coffee&tea,Beverages,161
+2026-01-18,Pune,Shampoo,Personal Care,108
+2026-01-18,Pune,Lotion,Personal Care,66
+2026-01-18,Pune,Soap,Personal Care,122
+2026-01-18,Pune,Face Wash,Personal Care,48
+2026-01-18,Delhi,cereals,Grocery,171
+2026-01-18,Delhi,herbs,Grocery,112
+2026-01-18,Delhi,fruits,Grocery,190
+2026-01-18,Delhi,veggies,Grocery,153
+2026-01-18,Delhi,Milk,Dairy,241
+2026-01-18,Delhi,Cheese,Dairy,122
+2026-01-18,Delhi,Butter Milk,Dairy,112
+2026-01-18,Delhi,Chips,Snacks,198
+2026-01-18,Delhi,Nuts,Snacks,158
+2026-01-18,Delhi,Cheetos,Snacks,185
+2026-01-18,Delhi,M&M'S,Snacks,124
+2026-01-18,Delhi,Soft Drinks,Beverages,211
+2026-01-18,Delhi,Energy Drinks,Beverages,182
+2026-01-18,Delhi,coffee&tea,Beverages,89
+2026-01-18,Delhi,Shampoo,Personal Care,116
+2026-01-18,Delhi,Lotion,Personal Care,140
+2026-01-18,Delhi,Soap,Personal Care,94
+2026-01-18,Delhi,Face Wash,Personal Care,85
+2026-01-18,Bangalore,cereals,Grocery,183
+2026-01-18,Bangalore,herbs,Grocery,76
+2026-01-18,Bangalore,fruits,Grocery,160
+2026-01-18,Bangalore,veggies,Grocery,103
+2026-01-18,Bangalore,Milk,Dairy,258
+2026-01-18,Bangalore,Cheese,Dairy,135
+2026-01-18,Bangalore,Butter Milk,Dairy,155
+2026-01-18,Bangalore,Chips,Snacks,234
+2026-01-18,Bangalore,Nuts,Snacks,213
+2026-01-18,Bangalore,Cheetos,Snacks,134
+2026-01-18,Bangalore,M&M'S,Snacks,118
+2026-01-18,Bangalore,Soft Drinks,Beverages,252
+2026-01-18,Bangalore,Energy Drinks,Beverages,229
+2026-01-18,Bangalore,coffee&tea,Beverages,81
+2026-01-18,Bangalore,Shampoo,Personal Care,98
+2026-01-18,Bangalore,Lotion,Personal Care,105
+2026-01-18,Bangalore,Soap,Personal Care,127
+2026-01-18,Bangalore,Face Wash,Personal Care,38
+2026-01-19,Mumbai,cereals,Grocery,137
+2026-01-19,Mumbai,herbs,Grocery,62
+2026-01-19,Mumbai,fruits,Grocery,168
+2026-01-19,Mumbai,veggies,Grocery,37
+2026-01-19,Mumbai,Milk,Dairy,161
+2026-01-19,Mumbai,Cheese,Dairy,79
+2026-01-19,Mumbai,Butter Milk,Dairy,82
+2026-01-19,Mumbai,Chips,Snacks,164
+2026-01-19,Mumbai,Nuts,Snacks,114
+2026-01-19,Mumbai,Cheetos,Snacks,142
+2026-01-19,Mumbai,M&M'S,Snacks,52
+2026-01-19,Mumbai,Soft Drinks,Beverages,140
+2026-01-19,Mumbai,Energy Drinks,Beverages,199
+2026-01-19,Mumbai,coffee&tea,Beverages,107
+2026-01-19,Mumbai,Shampoo,Personal Care,76
+2026-01-19,Mumbai,Lotion,Personal Care,81
+2026-01-19,Mumbai,Soap,Personal Care,72
+2026-01-19,Mumbai,Face Wash,Personal Care,59
+2026-01-19,Pune,cereals,Grocery,129
+2026-01-19,Pune,herbs,Grocery,93
+2026-01-19,Pune,fruits,Grocery,120
+2026-01-19,Pune,veggies,Grocery,125
+2026-01-19,Pune,Milk,Dairy,187
+2026-01-19,Pune,Cheese,Dairy,105
+2026-01-19,Pune,Butter Milk,Dairy,106
+2026-01-19,Pune,Chips,Snacks,158
+2026-01-19,Pune,Nuts,Snacks,151
+2026-01-19,Pune,Cheetos,Snacks,149
+2026-01-19,Pune,M&M'S,Snacks,135
+2026-01-19,Pune,Soft Drinks,Beverages,187
+2026-01-19,Pune,Energy Drinks,Beverages,191
+2026-01-19,Pune,coffee&tea,Beverages,137
+2026-01-19,Pune,Shampoo,Personal Care,65
+2026-01-19,Pune,Lotion,Personal Care,53
+2026-01-19,Pune,Soap,Personal Care,96
+2026-01-19,Pune,Face Wash,Personal Care,92
+2026-01-19,Delhi,cereals,Grocery,89
+2026-01-19,Delhi,herbs,Grocery,106
+2026-01-19,Delhi,fruits,Grocery,124
+2026-01-19,Delhi,veggies,Grocery,103
+2026-01-19,Delhi,Milk,Dairy,209
+2026-01-19,Delhi,Cheese,Dairy,97
+2026-01-19,Delhi,Butter Milk,Dairy,135
+2026-01-19,Delhi,Chips,Snacks,158
+2026-01-19,Delhi,Nuts,Snacks,137
+2026-01-19,Delhi,Cheetos,Snacks,141
+2026-01-19,Delhi,M&M'S,Snacks,84
+2026-01-19,Delhi,Soft Drinks,Beverages,96
+2026-01-19,Delhi,Energy Drinks,Beverages,300
+2026-01-19,Delhi,coffee&tea,Beverages,122
+2026-01-19,Delhi,Shampoo,Personal Care,59
+2026-01-19,Delhi,Lotion,Personal Care,74
+2026-01-19,Delhi,Soap,Personal Care,82
+2026-01-19,Delhi,Face Wash,Personal Care,88
+2026-01-19,Bangalore,cereals,Grocery,144
+2026-01-19,Bangalore,herbs,Grocery,50
+2026-01-19,Bangalore,fruits,Grocery,186
+2026-01-19,Bangalore,veggies,Grocery,120
+2026-01-19,Bangalore,Milk,Dairy,232
+2026-01-19,Bangalore,Cheese,Dairy,195
+2026-01-19,Bangalore,Butter Milk,Dairy,121
+2026-01-19,Bangalore,Chips,Snacks,281
+2026-01-19,Bangalore,Nuts,Snacks,164
+2026-01-19,Bangalore,Cheetos,Snacks,131
+2026-01-19,Bangalore,M&M'S,Snacks,117
+2026-01-19,Bangalore,Soft Drinks,Beverages,201
+2026-01-19,Bangalore,Energy Drinks,Beverages,132
+2026-01-19,Bangalore,coffee&tea,Beverages,177
+2026-01-19,Bangalore,Shampoo,Personal Care,63
+2026-01-19,Bangalore,Lotion,Personal Care,93
+2026-01-19,Bangalore,Soap,Personal Care,60
+2026-01-19,Bangalore,Face Wash,Personal Care,25
+2026-01-20,Mumbai,cereals,Grocery,102
+2026-01-20,Mumbai,herbs,Grocery,10
+2026-01-20,Mumbai,fruits,Grocery,168
+2026-01-20,Mumbai,veggies,Grocery,76
+2026-01-20,Mumbai,Milk,Dairy,166
+2026-01-20,Mumbai,Cheese,Dairy,68
+2026-01-20,Mumbai,Butter Milk,Dairy,49
+2026-01-20,Mumbai,Chips,Snacks,144
+2026-01-20,Mumbai,Nuts,Snacks,123
+2026-01-20,Mumbai,Cheetos,Snacks,139
+2026-01-20,Mumbai,M&M'S,Snacks,92
+2026-01-20,Mumbai,Soft Drinks,Beverages,176
+2026-01-20,Mumbai,Energy Drinks,Beverages,187
+2026-01-20,Mumbai,coffee&tea,Beverages,45
+2026-01-20,Mumbai,Shampoo,Personal Care,167
+2026-01-20,Mumbai,Lotion,Personal Care,42
+2026-01-20,Mumbai,Soap,Personal Care,72
+2026-01-20,Mumbai,Face Wash,Personal Care,85
+2026-01-20,Pune,cereals,Grocery,136
+2026-01-20,Pune,herbs,Grocery,57
+2026-01-20,Pune,fruits,Grocery,298
+2026-01-20,Pune,veggies,Grocery,104
+2026-01-20,Pune,Milk,Dairy,115
+2026-01-20,Pune,Cheese,Dairy,53
+2026-01-20,Pune,Butter Milk,Dairy,87
+2026-01-20,Pune,Chips,Snacks,182
+2026-01-20,Pune,Nuts,Snacks,162
+2026-01-20,Pune,Cheetos,Snacks,41
+2026-01-20,Pune,M&M'S,Snacks,120
+2026-01-20,Pune,Soft Drinks,Beverages,209
+2026-01-20,Pune,Energy Drinks,Beverages,141
+2026-01-20,Pune,coffee&tea,Beverages,102
+2026-01-20,Pune,Shampoo,Personal Care,63
+2026-01-20,Pune,Lotion,Personal Care,112
+2026-01-20,Pune,Soap,Personal Care,76
+2026-01-20,Pune,Face Wash,Personal Care,49
+2026-01-20,Delhi,cereals,Grocery,104
+2026-01-20,Delhi,herbs,Grocery,97
+2026-01-20,Delhi,fruits,Grocery,134
+2026-01-20,Delhi,veggies,Grocery,69
+2026-01-20,Delhi,Milk,Dairy,80
+2026-01-20,Delhi,Cheese,Dairy,113
+2026-01-20,Delhi,Butter Milk,Dairy,111
+2026-01-20,Delhi,Chips,Snacks,125
+2026-01-20,Delhi,Nuts,Snacks,158
+2026-01-20,Delhi,Cheetos,Snacks,71
+2026-01-20,Delhi,M&M'S,Snacks,139
+2026-01-20,Delhi,Soft Drinks,Beverages,141
+2026-01-20,Delhi,Energy Drinks,Beverages,198
+2026-01-20,Delhi,coffee&tea,Beverages,145
+2026-01-20,Delhi,Shampoo,Personal Care,62
+2026-01-20,Delhi,Lotion,Personal Care,75
+2026-01-20,Delhi,Soap,Personal Care,109
+2026-01-20,Delhi,Face Wash,Personal Care,66
+2026-01-20,Bangalore,cereals,Grocery,95
+2026-01-20,Bangalore,herbs,Grocery,91
+2026-01-20,Bangalore,fruits,Grocery,176
+2026-01-20,Bangalore,veggies,Grocery,111
+2026-01-20,Bangalore,Milk,Dairy,223
+2026-01-20,Bangalore,Cheese,Dairy,78
+2026-01-20,Bangalore,Butter Milk,Dairy,105
+2026-01-20,Bangalore,Chips,Snacks,127
+2026-01-20,Bangalore,Nuts,Snacks,74
+2026-01-20,Bangalore,Cheetos,Snacks,132
+2026-01-20,Bangalore,M&M'S,Snacks,101
+2026-01-20,Bangalore,Soft Drinks,Beverages,212
+2026-01-20,Bangalore,Energy Drinks,Beverages,189
+2026-01-20,Bangalore,coffee&tea,Beverages,119
+2026-01-20,Bangalore,Shampoo,Personal Care,54
+2026-01-20,Bangalore,Lotion,Personal Care,76
+2026-01-20,Bangalore,Soap,Personal Care,38
+2026-01-20,Bangalore,Face Wash,Personal Care,26
+2026-01-21,Mumbai,cereals,Grocery,110
+2026-01-21,Mumbai,herbs,Grocery,100
+2026-01-21,Mumbai,fruits,Grocery,141
+2026-01-21,Mumbai,veggies,Grocery,61
+2026-01-21,Mumbai,Milk,Dairy,175
+2026-01-21,Mumbai,Cheese,Dairy,35
+2026-01-21,Mumbai,Butter Milk,Dairy,73
+2026-01-21,Mumbai,Chips,Snacks,121
+2026-01-21,Mumbai,Nuts,Snacks,304
+2026-01-21,Mumbai,Cheetos,Snacks,160
+2026-01-21,Mumbai,M&M'S,Snacks,98
+2026-01-21,Mumbai,Soft Drinks,Beverages,182
+2026-01-21,Mumbai,Energy Drinks,Beverages,186
+2026-01-21,Mumbai,coffee&tea,Beverages,165
+2026-01-21,Mumbai,Shampoo,Personal Care,58
+2026-01-21,Mumbai,Lotion,Personal Care,64
+2026-01-21,Mumbai,Soap,Personal Care,141
+2026-01-21,Mumbai,Face Wash,Personal Care,61
+2026-01-21,Pune,cereals,Grocery,101
+2026-01-21,Pune,herbs,Grocery,66
+2026-01-21,Pune,fruits,Grocery,175
+2026-01-21,Pune,veggies,Grocery,132
+2026-01-21,Pune,Milk,Dairy,207
+2026-01-21,Pune,Cheese,Dairy,204
+2026-01-21,Pune,Butter Milk,Dairy,96
+2026-01-21,Pune,Chips,Snacks,175
+2026-01-21,Pune,Nuts,Snacks,127
+2026-01-21,Pune,Cheetos,Snacks,45
+2026-01-21,Pune,M&M'S,Snacks,97
+2026-01-21,Pune,Soft Drinks,Beverages,197
+2026-01-21,Pune,Energy Drinks,Beverages,155
+2026-01-21,Pune,coffee&tea,Beverages,179
+2026-01-21,Pune,Shampoo,Personal Care,82
+2026-01-21,Pune,Lotion,Personal Care,77
+2026-01-21,Pune,Soap,Personal Care,10
+2026-01-21,Pune,Face Wash,Personal Care,97
+2026-01-21,Delhi,cereals,Grocery,31
+2026-01-21,Delhi,herbs,Grocery,53
+2026-01-21,Delhi,fruits,Grocery,124
+2026-01-21,Delhi,veggies,Grocery,103
+2026-01-21,Delhi,Milk,Dairy,237
+2026-01-21,Delhi,Cheese,Dairy,35
+2026-01-21,Delhi,Butter Milk,Dairy,123
+2026-01-21,Delhi,Chips,Snacks,122
+2026-01-21,Delhi,Nuts,Snacks,172
+2026-01-21,Delhi,Cheetos,Snacks,111
+2026-01-21,Delhi,M&M'S,Snacks,151
+2026-01-21,Delhi,Soft Drinks,Beverages,214
+2026-01-21,Delhi,Energy Drinks,Beverages,194
+2026-01-21,Delhi,coffee&tea,Beverages,119
+2026-01-21,Delhi,Shampoo,Personal Care,107
+2026-01-21,Delhi,Lotion,Personal Care,105
+2026-01-21,Delhi,Soap,Personal Care,58
+2026-01-21,Delhi,Face Wash,Personal Care,79
+2026-01-21,Bangalore,cereals,Grocery,155
+2026-01-21,Bangalore,herbs,Grocery,78
+2026-01-21,Bangalore,fruits,Grocery,154
+2026-01-21,Bangalore,veggies,Grocery,116
+2026-01-21,Bangalore,Milk,Dairy,212
+2026-01-21,Bangalore,Cheese,Dairy,121
+2026-01-21,Bangalore,Butter Milk,Dairy,95
+2026-01-21,Bangalore,Chips,Snacks,118
+2026-01-21,Bangalore,Nuts,Snacks,138
+2026-01-21,Bangalore,Cheetos,Snacks,144
+2026-01-21,Bangalore,M&M'S,Snacks,106
+2026-01-21,Bangalore,Soft Drinks,Beverages,158
+2026-01-21,Bangalore,Energy Drinks,Beverages,161
+2026-01-21,Bangalore,coffee&tea,Beverages,171
+2026-01-21,Bangalore,Shampoo,Personal Care,56
+2026-01-21,Bangalore,Lotion,Personal Care,64
+2026-01-21,Bangalore,Soap,Personal Care,41
+2026-01-21,Bangalore,Face Wash,Personal Care,65
+2026-01-22,Mumbai,cereals,Grocery,92
+2026-01-22,Mumbai,herbs,Grocery,96
+2026-01-22,Mumbai,fruits,Grocery,158
+2026-01-22,Mumbai,veggies,Grocery,113
+2026-01-22,Mumbai,Milk,Dairy,187
+2026-01-22,Mumbai,Cheese,Dairy,74
+2026-01-22,Mumbai,Butter Milk,Dairy,105
+2026-01-22,Mumbai,Chips,Snacks,126
+2026-01-22,Mumbai,Nuts,Snacks,144
+2026-01-22,Mumbai,Cheetos,Snacks,140
+2026-01-22,Mumbai,M&M'S,Snacks,252
+2026-01-22,Mumbai,Soft Drinks,Beverages,177
+2026-01-22,Mumbai,Energy Drinks,Beverages,126
+2026-01-22,Mumbai,coffee&tea,Beverages,140
+2026-01-22,Mumbai,Shampoo,Personal Care,99
+2026-01-22,Mumbai,Lotion,Personal Care,40
+2026-01-22,Mumbai,Soap,Personal Care,33
+2026-01-22,Mumbai,Face Wash,Personal Care,23
+2026-01-22,Pune,cereals,Grocery,152
+2026-01-22,Pune,herbs,Grocery,63
+2026-01-22,Pune,fruits,Grocery,152
+2026-01-22,Pune,veggies,Grocery,77
+2026-01-22,Pune,Milk,Dairy,206
+2026-01-22,Pune,Cheese,Dairy,86
+2026-01-22,Pune,Butter Milk,Dairy,117
+2026-01-22,Pune,Chips,Snacks,139
+2026-01-22,Pune,Nuts,Snacks,111
+2026-01-22,Pune,Cheetos,Snacks,142
+2026-01-22,Pune,M&M'S,Snacks,137
+2026-01-22,Pune,Soft Drinks,Beverages,145
+2026-01-22,Pune,Energy Drinks,Beverages,58
+2026-01-22,Pune,coffee&tea,Beverages,129
+2026-01-22,Pune,Shampoo,Personal Care,61
+2026-01-22,Pune,Lotion,Personal Care,10
+2026-01-22,Pune,Soap,Personal Care,23
+2026-01-22,Pune,Face Wash,Personal Care,34
+2026-01-22,Delhi,cereals,Grocery,63
+2026-01-22,Delhi,herbs,Grocery,82
+2026-01-22,Delhi,fruits,Grocery,167
+2026-01-22,Delhi,veggies,Grocery,20
+2026-01-22,Delhi,Milk,Dairy,181
+2026-01-22,Delhi,Cheese,Dairy,91
+2026-01-22,Delhi,Butter Milk,Dairy,124
+2026-01-22,Delhi,Chips,Snacks,148
+2026-01-22,Delhi,Nuts,Snacks,148
+2026-01-22,Delhi,Cheetos,Snacks,121
+2026-01-22,Delhi,M&M'S,Snacks,132
+2026-01-22,Delhi,Soft Drinks,Beverages,178
+2026-01-22,Delhi,Energy Drinks,Beverages,122
+2026-01-22,Delhi,coffee&tea,Beverages,178
+2026-01-22,Delhi,Shampoo,Personal Care,87
+2026-01-22,Delhi,Lotion,Personal Care,47
+2026-01-22,Delhi,Soap,Personal Care,76
+2026-01-22,Delhi,Face Wash,Personal Care,64
+2026-01-22,Bangalore,cereals,Grocery,146
+2026-01-22,Bangalore,herbs,Grocery,116
+2026-01-22,Bangalore,fruits,Grocery,180
+2026-01-22,Bangalore,veggies,Grocery,183
+2026-01-22,Bangalore,Milk,Dairy,169
+2026-01-22,Bangalore,Cheese,Dairy,105
+2026-01-22,Bangalore,Butter Milk,Dairy,129
+2026-01-22,Bangalore,Chips,Snacks,150
+2026-01-22,Bangalore,Nuts,Snacks,105
+2026-01-22,Bangalore,Cheetos,Snacks,107
+2026-01-22,Bangalore,M&M'S,Snacks,107
+2026-01-22,Bangalore,Soft Drinks,Beverages,106
+2026-01-22,Bangalore,Energy Drinks,Beverages,151
+2026-01-22,Bangalore,coffee&tea,Beverages,167
+2026-01-22,Bangalore,Shampoo,Personal Care,116
+2026-01-22,Bangalore,Lotion,Personal Care,63
+2026-01-22,Bangalore,Soap,Personal Care,42
+2026-01-22,Bangalore,Face Wash,Personal Care,85
+2026-01-23,Mumbai,cereals,Grocery,126
+2026-01-23,Mumbai,herbs,Grocery,94
+2026-01-23,Mumbai,fruits,Grocery,162
+2026-01-23,Mumbai,veggies,Grocery,104
+2026-01-23,Mumbai,Milk,Dairy,210
+2026-01-23,Mumbai,Cheese,Dairy,105
+2026-01-23,Mumbai,Butter Milk,Dairy,124
+2026-01-23,Mumbai,Chips,Snacks,142
+2026-01-23,Mumbai,Nuts,Snacks,148
+2026-01-23,Mumbai,Cheetos,Snacks,129
+2026-01-23,Mumbai,M&M'S,Snacks,133
+2026-01-23,Mumbai,Soft Drinks,Beverages,174
+2026-01-23,Mumbai,Energy Drinks,Beverages,174
+2026-01-23,Mumbai,coffee&tea,Beverages,124
+2026-01-23,Mumbai,Shampoo,Personal Care,113
+2026-01-23,Mumbai,Lotion,Personal Care,69
+2026-01-23,Mumbai,Soap,Personal Care,108
+2026-01-23,Mumbai,Face Wash,Personal Care,42
+2026-01-23,Pune,cereals,Grocery,126
+2026-01-23,Pune,herbs,Grocery,169
+2026-01-23,Pune,fruits,Grocery,268
+2026-01-23,Pune,veggies,Grocery,80
+2026-01-23,Pune,Milk,Dairy,236
+2026-01-23,Pune,Cheese,Dairy,66
+2026-01-23,Pune,Butter Milk,Dairy,127
+2026-01-23,Pune,Chips,Snacks,297
+2026-01-23,Pune,Nuts,Snacks,165
+2026-01-23,Pune,Cheetos,Snacks,113
+2026-01-23,Pune,M&M'S,Snacks,234
+2026-01-23,Pune,Soft Drinks,Beverages,184
+2026-01-23,Pune,Energy Drinks,Beverages,135
+2026-01-23,Pune,coffee&tea,Beverages,124
+2026-01-23,Pune,Shampoo,Personal Care,50
+2026-01-23,Pune,Lotion,Personal Care,119
+2026-01-23,Pune,Soap,Personal Care,63
+2026-01-23,Pune,Face Wash,Personal Care,40
+2026-01-23,Delhi,cereals,Grocery,127
+2026-01-23,Delhi,herbs,Grocery,49
+2026-01-23,Delhi,fruits,Grocery,169
+2026-01-23,Delhi,veggies,Grocery,174
+2026-01-23,Delhi,Milk,Dairy,168
+2026-01-23,Delhi,Cheese,Dairy,64
+2026-01-23,Delhi,Butter Milk,Dairy,74
+2026-01-23,Delhi,Chips,Snacks,111
+2026-01-23,Delhi,Nuts,Snacks,103
+2026-01-23,Delhi,Cheetos,Snacks,156
+2026-01-23,Delhi,M&M'S,Snacks,208
+2026-01-23,Delhi,Soft Drinks,Beverages,91
+2026-01-23,Delhi,Energy Drinks,Beverages,131
+2026-01-23,Delhi,coffee&tea,Beverages,172
+2026-01-23,Delhi,Shampoo,Personal Care,105
+2026-01-23,Delhi,Lotion,Personal Care,103
+2026-01-23,Delhi,Soap,Personal Care,107
+2026-01-23,Delhi,Face Wash,Personal Care,50
+2026-01-23,Bangalore,cereals,Grocery,81
+2026-01-23,Bangalore,herbs,Grocery,109
+2026-01-23,Bangalore,fruits,Grocery,184
+2026-01-23,Bangalore,veggies,Grocery,118
+2026-01-23,Bangalore,Milk,Dairy,421
+2026-01-23,Bangalore,Cheese,Dairy,117
+2026-01-23,Bangalore,Butter Milk,Dairy,104
+2026-01-23,Bangalore,Chips,Snacks,116
+2026-01-23,Bangalore,Nuts,Snacks,255
+2026-01-23,Bangalore,Cheetos,Snacks,161
+2026-01-23,Bangalore,M&M'S,Snacks,121
+2026-01-23,Bangalore,Soft Drinks,Beverages,146
+2026-01-23,Bangalore,Energy Drinks,Beverages,144
+2026-01-23,Bangalore,coffee&tea,Beverages,105
+2026-01-23,Bangalore,Shampoo,Personal Care,95
+2026-01-23,Bangalore,Lotion,Personal Care,67
+2026-01-23,Bangalore,Soap,Personal Care,107
+2026-01-23,Bangalore,Face Wash,Personal Care,73
+2026-01-24,Mumbai,cereals,Grocery,187
+2026-01-24,Mumbai,herbs,Grocery,122
+2026-01-24,Mumbai,fruits,Grocery,183
+2026-01-24,Mumbai,veggies,Grocery,157
+2026-01-24,Mumbai,Milk,Dairy,226
+2026-01-24,Mumbai,Cheese,Dairy,147
+2026-01-24,Mumbai,Butter Milk,Dairy,177
+2026-01-24,Mumbai,Chips,Snacks,217
+2026-01-24,Mumbai,Nuts,Snacks,189
+2026-01-24,Mumbai,Cheetos,Snacks,175
+2026-01-24,Mumbai,M&M'S,Snacks,178
+2026-01-24,Mumbai,Soft Drinks,Beverages,210
+2026-01-24,Mumbai,Energy Drinks,Beverages,217
+2026-01-24,Mumbai,coffee&tea,Beverages,220
+2026-01-24,Mumbai,Shampoo,Personal Care,112
+2026-01-24,Mumbai,Lotion,Personal Care,125
+2026-01-24,Mumbai,Soap,Personal Care,111
+2026-01-24,Mumbai,Face Wash,Personal Care,11
+2026-01-24,Pune,cereals,Grocery,193
+2026-01-24,Pune,herbs,Grocery,134
+2026-01-24,Pune,fruits,Grocery,179
+2026-01-24,Pune,veggies,Grocery,143
+2026-01-24,Pune,Milk,Dairy,275
+2026-01-24,Pune,Cheese,Dairy,137
+2026-01-24,Pune,Butter Milk,Dairy,118
+2026-01-24,Pune,Chips,Snacks,197
+2026-01-24,Pune,Nuts,Snacks,143
+2026-01-24,Pune,Cheetos,Snacks,134
+2026-01-24,Pune,M&M'S,Snacks,184
+2026-01-24,Pune,Soft Drinks,Beverages,230
+2026-01-24,Pune,Energy Drinks,Beverages,224
+2026-01-24,Pune,coffee&tea,Beverages,205
+2026-01-24,Pune,Shampoo,Personal Care,105
+2026-01-24,Pune,Lotion,Personal Care,81
+2026-01-24,Pune,Soap,Personal Care,51
+2026-01-24,Pune,Face Wash,Personal Care,64
+2026-01-24,Delhi,cereals,Grocery,143
+2026-01-24,Delhi,herbs,Grocery,123
+2026-01-24,Delhi,fruits,Grocery,210
+2026-01-24,Delhi,veggies,Grocery,143
+2026-01-24,Delhi,Milk,Dairy,258
+2026-01-24,Delhi,Cheese,Dairy,94
+2026-01-24,Delhi,Butter Milk,Dairy,88
+2026-01-24,Delhi,Chips,Snacks,367
+2026-01-24,Delhi,Nuts,Snacks,206
+2026-01-24,Delhi,Cheetos,Snacks,157
+2026-01-24,Delhi,M&M'S,Snacks,162
+2026-01-24,Delhi,Soft Drinks,Beverages,244
+2026-01-24,Delhi,Energy Drinks,Beverages,402
+2026-01-24,Delhi,coffee&tea,Beverages,347
+2026-01-24,Delhi,Shampoo,Personal Care,139
+2026-01-24,Delhi,Lotion,Personal Care,125
+2026-01-24,Delhi,Soap,Personal Care,79
+2026-01-24,Delhi,Face Wash,Personal Care,102
+2026-01-24,Bangalore,cereals,Grocery,132
+2026-01-24,Bangalore,herbs,Grocery,142
+2026-01-24,Bangalore,fruits,Grocery,210
+2026-01-24,Bangalore,veggies,Grocery,124
+2026-01-24,Bangalore,Milk,Dairy,159
+2026-01-24,Bangalore,Cheese,Dairy,97
+2026-01-24,Bangalore,Butter Milk,Dairy,163
+2026-01-24,Bangalore,Chips,Snacks,219
+2026-01-24,Bangalore,Nuts,Snacks,158
+2026-01-24,Bangalore,Cheetos,Snacks,172
+2026-01-24,Bangalore,M&M'S,Snacks,149
+2026-01-24,Bangalore,Soft Drinks,Beverages,271
+2026-01-24,Bangalore,Energy Drinks,Beverages,169
+2026-01-24,Bangalore,coffee&tea,Beverages,153
+2026-01-24,Bangalore,Shampoo,Personal Care,77
+2026-01-24,Bangalore,Lotion,Personal Care,133
+2026-01-24,Bangalore,Soap,Personal Care,73
+2026-01-24,Bangalore,Face Wash,Personal Care,116
+2026-01-25,Mumbai,cereals,Grocery,194
+2026-01-25,Mumbai,herbs,Grocery,120
+2026-01-25,Mumbai,fruits,Grocery,234
+2026-01-25,Mumbai,veggies,Grocery,167
+2026-01-25,Mumbai,Milk,Dairy,286
+2026-01-25,Mumbai,Cheese,Dairy,117
+2026-01-25,Mumbai,Butter Milk,Dairy,160
+2026-01-25,Mumbai,Chips,Snacks,161
+2026-01-25,Mumbai,Nuts,Snacks,193
+2026-01-25,Mumbai,Cheetos,Snacks,199
+2026-01-25,Mumbai,M&M'S,Snacks,136
+2026-01-25,Mumbai,Soft Drinks,Beverages,267
+2026-01-25,Mumbai,Energy Drinks,Beverages,218
+2026-01-25,Mumbai,coffee&tea,Beverages,182
+2026-01-25,Mumbai,Shampoo,Personal Care,104
+2026-01-25,Mumbai,Lotion,Personal Care,121
+2026-01-25,Mumbai,Soap,Personal Care,121
+2026-01-25,Mumbai,Face Wash,Personal Care,97
+2026-01-25,Pune,cereals,Grocery,346
+2026-01-25,Pune,herbs,Grocery,106
+2026-01-25,Pune,fruits,Grocery,194
+2026-01-25,Pune,veggies,Grocery,146
+2026-01-25,Pune,Milk,Dairy,541
+2026-01-25,Pune,Cheese,Dairy,93
+2026-01-25,Pune,Butter Milk,Dairy,142
+2026-01-25,Pune,Chips,Snacks,172
+2026-01-25,Pune,Nuts,Snacks,158
+2026-01-25,Pune,Cheetos,Snacks,173
+2026-01-25,Pune,M&M'S,Snacks,164
+2026-01-25,Pune,Soft Drinks,Beverages,96
+2026-01-25,Pune,Energy Drinks,Beverages,176
+2026-01-25,Pune,coffee&tea,Beverages,160
+2026-01-25,Pune,Shampoo,Personal Care,102
+2026-01-25,Pune,Lotion,Personal Care,116
+2026-01-25,Pune,Soap,Personal Care,69
+2026-01-25,Pune,Face Wash,Personal Care,86
+2026-01-25,Delhi,cereals,Grocery,164
+2026-01-25,Delhi,herbs,Grocery,115
+2026-01-25,Delhi,fruits,Grocery,200
+2026-01-25,Delhi,veggies,Grocery,150
+2026-01-25,Delhi,Milk,Dairy,244
+2026-01-25,Delhi,Cheese,Dairy,134
+2026-01-25,Delhi,Butter Milk,Dairy,108
+2026-01-25,Delhi,Chips,Snacks,232
+2026-01-25,Delhi,Nuts,Snacks,212
+2026-01-25,Delhi,Cheetos,Snacks,106
+2026-01-25,Delhi,M&M'S,Snacks,141
+2026-01-25,Delhi,Soft Drinks,Beverages,223
+2026-01-25,Delhi,Energy Drinks,Beverages,200
+2026-01-25,Delhi,coffee&tea,Beverages,167
+2026-01-25,Delhi,Shampoo,Personal Care,116
+2026-01-25,Delhi,Lotion,Personal Care,246
+2026-01-25,Delhi,Soap,Personal Care,98
+2026-01-25,Delhi,Face Wash,Personal Care,96
+2026-01-25,Bangalore,cereals,Grocery,155
+2026-01-25,Bangalore,herbs,Grocery,79
+2026-01-25,Bangalore,fruits,Grocery,160
+2026-01-25,Bangalore,veggies,Grocery,107
+2026-01-25,Bangalore,Milk,Dairy,270
+2026-01-25,Bangalore,Cheese,Dairy,95
+2026-01-25,Bangalore,Butter Milk,Dairy,150
+2026-01-25,Bangalore,Chips,Snacks,169
+2026-01-25,Bangalore,Nuts,Snacks,164
+2026-01-25,Bangalore,Cheetos,Snacks,131
+2026-01-25,Bangalore,M&M'S,Snacks,136
+2026-01-25,Bangalore,Soft Drinks,Beverages,231
+2026-01-25,Bangalore,Energy Drinks,Beverages,202
+2026-01-25,Bangalore,coffee&tea,Beverages,151
+2026-01-25,Bangalore,Shampoo,Personal Care,110
+2026-01-25,Bangalore,Lotion,Personal Care,80
+2026-01-25,Bangalore,Soap,Personal Care,51
+2026-01-25,Bangalore,Face Wash,Personal Care,50
+2026-01-26,Mumbai,cereals,Grocery,83
+2026-01-26,Mumbai,herbs,Grocery,51
+2026-01-26,Mumbai,fruits,Grocery,117
+2026-01-26,Mumbai,veggies,Grocery,116
+2026-01-26,Mumbai,Milk,Dairy,167
+2026-01-26,Mumbai,Cheese,Dairy,59
+2026-01-26,Mumbai,Butter Milk,Dairy,105
+2026-01-26,Mumbai,Chips,Snacks,123
+2026-01-26,Mumbai,Nuts,Snacks,120
+2026-01-26,Mumbai,Cheetos,Snacks,109
+2026-01-26,Mumbai,M&M'S,Snacks,80
+2026-01-26,Mumbai,Soft Drinks,Beverages,200
+2026-01-26,Mumbai,Energy Drinks,Beverages,181
+2026-01-26,Mumbai,coffee&tea,Beverages,277
+2026-01-26,Mumbai,Shampoo,Personal Care,121
+2026-01-26,Mumbai,Lotion,Personal Care,96
+2026-01-26,Mumbai,Soap,Personal Care,88
+2026-01-26,Mumbai,Face Wash,Personal Care,95
+2026-01-26,Pune,cereals,Grocery,131
+2026-01-26,Pune,herbs,Grocery,64
+2026-01-26,Pune,fruits,Grocery,86
+2026-01-26,Pune,veggies,Grocery,90
+2026-01-26,Pune,Milk,Dairy,361
+2026-01-26,Pune,Cheese,Dairy,84
+2026-01-26,Pune,Butter Milk,Dairy,87
+2026-01-26,Pune,Chips,Snacks,139
+2026-01-26,Pune,Nuts,Snacks,151
+2026-01-26,Pune,Cheetos,Snacks,125
+2026-01-26,Pune,M&M'S,Snacks,147
+2026-01-26,Pune,Soft Drinks,Beverages,158
+2026-01-26,Pune,Energy Drinks,Beverages,199
+2026-01-26,Pune,coffee&tea,Beverages,152
+2026-01-26,Pune,Shampoo,Personal Care,54
+2026-01-26,Pune,Lotion,Personal Care,68
+2026-01-26,Pune,Soap,Personal Care,87
+2026-01-26,Pune,Face Wash,Personal Care,94
+2026-01-26,Delhi,cereals,Grocery,155
+2026-01-26,Delhi,herbs,Grocery,65
+2026-01-26,Delhi,fruits,Grocery,132
+2026-01-26,Delhi,veggies,Grocery,91
+2026-01-26,Delhi,Milk,Dairy,234
+2026-01-26,Delhi,Cheese,Dairy,102
+2026-01-26,Delhi,Butter Milk,Dairy,76
+2026-01-26,Delhi,Chips,Snacks,124
+2026-01-26,Delhi,Nuts,Snacks,164
+2026-01-26,Delhi,Cheetos,Snacks,150
+2026-01-26,Delhi,M&M'S,Snacks,239
+2026-01-26,Delhi,Soft Drinks,Beverages,200
+2026-01-26,Delhi,Energy Drinks,Beverages,150
+2026-01-26,Delhi,coffee&tea,Beverages,111
+2026-01-26,Delhi,Shampoo,Personal Care,58
+2026-01-26,Delhi,Lotion,Personal Care,93
+2026-01-26,Delhi,Soap,Personal Care,106
+2026-01-26,Delhi,Face Wash,Personal Care,77
+2026-01-26,Bangalore,cereals,Grocery,147
+2026-01-26,Bangalore,herbs,Grocery,111
+2026-01-26,Bangalore,fruits,Grocery,152
+2026-01-26,Bangalore,veggies,Grocery,64
+2026-01-26,Bangalore,Milk,Dairy,169
+2026-01-26,Bangalore,Cheese,Dairy,67
+2026-01-26,Bangalore,Butter Milk,Dairy,255
+2026-01-26,Bangalore,Chips,Snacks,118
+2026-01-26,Bangalore,Nuts,Snacks,134
+2026-01-26,Bangalore,Cheetos,Snacks,167
+2026-01-26,Bangalore,M&M'S,Snacks,124
+2026-01-26,Bangalore,Soft Drinks,Beverages,219
+2026-01-26,Bangalore,Energy Drinks,Beverages,120
+2026-01-26,Bangalore,coffee&tea,Beverages,134
+2026-01-26,Bangalore,Shampoo,Personal Care,98
+2026-01-26,Bangalore,Lotion,Personal Care,43
+2026-01-26,Bangalore,Soap,Personal Care,100
+2026-01-26,Bangalore,Face Wash,Personal Care,50
+2026-01-27,Mumbai,cereals,Grocery,122
+2026-01-27,Mumbai,herbs,Grocery,119
+2026-01-27,Mumbai,fruits,Grocery,136
+2026-01-27,Mumbai,veggies,Grocery,89
+2026-01-27,Mumbai,Milk,Dairy,208
+2026-01-27,Mumbai,Cheese,Dairy,72
+2026-01-27,Mumbai,Butter Milk,Dairy,122
+2026-01-27,Mumbai,Chips,Snacks,125
+2026-01-27,Mumbai,Nuts,Snacks,136
+2026-01-27,Mumbai,Cheetos,Snacks,107
+2026-01-27,Mumbai,M&M'S,Snacks,131
+2026-01-27,Mumbai,Soft Drinks,Beverages,183
+2026-01-27,Mumbai,Energy Drinks,Beverages,185
+2026-01-27,Mumbai,coffee&tea,Beverages,141
+2026-01-27,Mumbai,Shampoo,Personal Care,59
+2026-01-27,Mumbai,Lotion,Personal Care,90
+2026-01-27,Mumbai,Soap,Personal Care,107
+2026-01-27,Mumbai,Face Wash,Personal Care,10
+2026-01-27,Pune,cereals,Grocery,141
+2026-01-27,Pune,herbs,Grocery,77
+2026-01-27,Pune,fruits,Grocery,159
+2026-01-27,Pune,veggies,Grocery,221
+2026-01-27,Pune,Milk,Dairy,169
+2026-01-27,Pune,Cheese,Dairy,120
+2026-01-27,Pune,Butter Milk,Dairy,149
+2026-01-27,Pune,Chips,Snacks,129
+2026-01-27,Pune,Nuts,Snacks,104
+2026-01-27,Pune,Cheetos,Snacks,159
+2026-01-27,Pune,M&M'S,Snacks,144
+2026-01-27,Pune,Soft Drinks,Beverages,179
+2026-01-27,Pune,Energy Drinks,Beverages,174
+2026-01-27,Pune,coffee&tea,Beverages,155
+2026-01-27,Pune,Shampoo,Personal Care,126
+2026-01-27,Pune,Lotion,Personal Care,105
+2026-01-27,Pune,Soap,Personal Care,92
+2026-01-27,Pune,Face Wash,Personal Care,92
+2026-01-27,Delhi,cereals,Grocery,262
+2026-01-27,Delhi,herbs,Grocery,108
+2026-01-27,Delhi,fruits,Grocery,180
+2026-01-27,Delhi,veggies,Grocery,104
+2026-01-27,Delhi,Milk,Dairy,189
+2026-01-27,Delhi,Cheese,Dairy,122
+2026-01-27,Delhi,Butter Milk,Dairy,138
+2026-01-27,Delhi,Chips,Snacks,121
+2026-01-27,Delhi,Nuts,Snacks,174
+2026-01-27,Delhi,Cheetos,Snacks,168
+2026-01-27,Delhi,M&M'S,Snacks,227
+2026-01-27,Delhi,Soft Drinks,Beverages,166
+2026-01-27,Delhi,Energy Drinks,Beverages,184
+2026-01-27,Delhi,coffee&tea,Beverages,109
+2026-01-27,Delhi,Shampoo,Personal Care,66
+2026-01-27,Delhi,Lotion,Personal Care,85
+2026-01-27,Delhi,Soap,Personal Care,68
+2026-01-27,Delhi,Face Wash,Personal Care,91
+2026-01-27,Bangalore,cereals,Grocery,150
+2026-01-27,Bangalore,herbs,Grocery,98
+2026-01-27,Bangalore,fruits,Grocery,181
+2026-01-27,Bangalore,veggies,Grocery,64
+2026-01-27,Bangalore,Milk,Dairy,198
+2026-01-27,Bangalore,Cheese,Dairy,125
+2026-01-27,Bangalore,Butter Milk,Dairy,100
+2026-01-27,Bangalore,Chips,Snacks,147
+2026-01-27,Bangalore,Nuts,Snacks,100
+2026-01-27,Bangalore,Cheetos,Snacks,29
+2026-01-27,Bangalore,M&M'S,Snacks,31
+2026-01-27,Bangalore,Soft Drinks,Beverages,218
+2026-01-27,Bangalore,Energy Drinks,Beverages,187
+2026-01-27,Bangalore,coffee&tea,Beverages,63
+2026-01-27,Bangalore,Shampoo,Personal Care,107
+2026-01-27,Bangalore,Lotion,Personal Care,54
+2026-01-27,Bangalore,Soap,Personal Care,131
+2026-01-27,Bangalore,Face Wash,Personal Care,93
+2026-01-28,Mumbai,cereals,Grocery,127
+2026-01-28,Mumbai,herbs,Grocery,105
+2026-01-28,Mumbai,fruits,Grocery,126
+2026-01-28,Mumbai,veggies,Grocery,133
+2026-01-28,Mumbai,Milk,Dairy,380
+2026-01-28,Mumbai,Cheese,Dairy,108
+2026-01-28,Mumbai,Butter Milk,Dairy,109
+2026-01-28,Mumbai,Chips,Snacks,165
+2026-01-28,Mumbai,Nuts,Snacks,167
+2026-01-28,Mumbai,Cheetos,Snacks,30
+2026-01-28,Mumbai,M&M'S,Snacks,81
+2026-01-28,Mumbai,Soft Drinks,Beverages,371
+2026-01-28,Mumbai,Energy Drinks,Beverages,141
+2026-01-28,Mumbai,coffee&tea,Beverages,159
+2026-01-28,Mumbai,Shampoo,Personal Care,88
+2026-01-28,Mumbai,Lotion,Personal Care,51
+2026-01-28,Mumbai,Soap,Personal Care,86
+2026-01-28,Mumbai,Face Wash,Personal Care,64
+2026-01-28,Pune,cereals,Grocery,210
+2026-01-28,Pune,herbs,Grocery,49
+2026-01-28,Pune,fruits,Grocery,181
+2026-01-28,Pune,veggies,Grocery,225
+2026-01-28,Pune,Milk,Dairy,179
+2026-01-28,Pune,Cheese,Dairy,74
+2026-01-28,Pune,Butter Milk,Dairy,114
+2026-01-28,Pune,Chips,Snacks,179
+2026-01-28,Pune,Nuts,Snacks,178
+2026-01-28,Pune,Cheetos,Snacks,126
+2026-01-28,Pune,M&M'S,Snacks,84
+2026-01-28,Pune,Soft Drinks,Beverages,356
+2026-01-28,Pune,Energy Drinks,Beverages,129
+2026-01-28,Pune,coffee&tea,Beverages,143
+2026-01-28,Pune,Shampoo,Personal Care,103
+2026-01-28,Pune,Lotion,Personal Care,41
+2026-01-28,Pune,Soap,Personal Care,88
+2026-01-28,Pune,Face Wash,Personal Care,64
+2026-01-28,Delhi,cereals,Grocery,137
+2026-01-28,Delhi,herbs,Grocery,46
+2026-01-28,Delhi,fruits,Grocery,147
+2026-01-28,Delhi,veggies,Grocery,112
+2026-01-28,Delhi,Milk,Dairy,178
+2026-01-28,Delhi,Cheese,Dairy,100
+2026-01-28,Delhi,Butter Milk,Dairy,133
+2026-01-28,Delhi,Chips,Snacks,167
+2026-01-28,Delhi,Nuts,Snacks,138
+2026-01-28,Delhi,Cheetos,Snacks,125
+2026-01-28,Delhi,M&M'S,Snacks,144
+2026-01-28,Delhi,Soft Drinks,Beverages,167
+2026-01-28,Delhi,Energy Drinks,Beverages,186
+2026-01-28,Delhi,coffee&tea,Beverages,163
+2026-01-28,Delhi,Shampoo,Personal Care,83
+2026-01-28,Delhi,Lotion,Personal Care,49
+2026-01-28,Delhi,Soap,Personal Care,78
+2026-01-28,Delhi,Face Wash,Personal Care,22
+2026-01-28,Bangalore,cereals,Grocery,140
+2026-01-28,Bangalore,herbs,Grocery,65
+2026-01-28,Bangalore,fruits,Grocery,125
+2026-01-28,Bangalore,veggies,Grocery,211
+2026-01-28,Bangalore,Milk,Dairy,239
+2026-01-28,Bangalore,Cheese,Dairy,103
+2026-01-28,Bangalore,Butter Milk,Dairy,131
+2026-01-28,Bangalore,Chips,Snacks,120
+2026-01-28,Bangalore,Nuts,Snacks,170
+2026-01-28,Bangalore,Cheetos,Snacks,152
+2026-01-28,Bangalore,M&M'S,Snacks,207
+2026-01-28,Bangalore,Soft Drinks,Beverages,148
+2026-01-28,Bangalore,Energy Drinks,Beverages,148
+2026-01-28,Bangalore,coffee&tea,Beverages,136
+2026-01-28,Bangalore,Shampoo,Personal Care,129
+2026-01-28,Bangalore,Lotion,Personal Care,70
+2026-01-28,Bangalore,Soap,Personal Care,102
+2026-01-28,Bangalore,Face Wash,Personal Care,96
+2026-01-29,Mumbai,cereals,Grocery,242
+2026-01-29,Mumbai,herbs,Grocery,44
+2026-01-29,Mumbai,fruits,Grocery,136
+2026-01-29,Mumbai,veggies,Grocery,132
+2026-01-29,Mumbai,Milk,Dairy,233
+2026-01-29,Mumbai,Cheese,Dairy,116
+2026-01-29,Mumbai,Butter Milk,Dairy,122
+2026-01-29,Mumbai,Chips,Snacks,111
+2026-01-29,Mumbai,Nuts,Snacks,123
+2026-01-29,Mumbai,Cheetos,Snacks,90
+2026-01-29,Mumbai,M&M'S,Snacks,202
+2026-01-29,Mumbai,Soft Drinks,Beverages,203
+2026-01-29,Mumbai,Energy Drinks,Beverages,184
+2026-01-29,Mumbai,coffee&tea,Beverages,263
+2026-01-29,Mumbai,Shampoo,Personal Care,65
+2026-01-29,Mumbai,Lotion,Personal Care,118
+2026-01-29,Mumbai,Soap,Personal Care,40
+2026-01-29,Mumbai,Face Wash,Personal Care,87
+2026-01-29,Pune,cereals,Grocery,89
+2026-01-29,Pune,herbs,Grocery,160
+2026-01-29,Pune,fruits,Grocery,168
+2026-01-29,Pune,veggies,Grocery,108
+2026-01-29,Pune,Milk,Dairy,238
+2026-01-29,Pune,Cheese,Dairy,81
+2026-01-29,Pune,Butter Milk,Dairy,105
+2026-01-29,Pune,Chips,Snacks,169
+2026-01-29,Pune,Nuts,Snacks,153
+2026-01-29,Pune,Cheetos,Snacks,169
+2026-01-29,Pune,M&M'S,Snacks,130
+2026-01-29,Pune,Soft Drinks,Beverages,192
+2026-01-29,Pune,Energy Drinks,Beverages,171
+2026-01-29,Pune,coffee&tea,Beverages,140
+2026-01-29,Pune,Shampoo,Personal Care,93
+2026-01-29,Pune,Lotion,Personal Care,93
+2026-01-29,Pune,Soap,Personal Care,89
+2026-01-29,Pune,Face Wash,Personal Care,97
+2026-01-29,Delhi,cereals,Grocery,127
+2026-01-29,Delhi,herbs,Grocery,97
+2026-01-29,Delhi,fruits,Grocery,111
+2026-01-29,Delhi,veggies,Grocery,75
+2026-01-29,Delhi,Milk,Dairy,173
+2026-01-29,Delhi,Cheese,Dairy,81
+2026-01-29,Delhi,Butter Milk,Dairy,114
+2026-01-29,Delhi,Chips,Snacks,127
+2026-01-29,Delhi,Nuts,Snacks,177
+2026-01-29,Delhi,Cheetos,Snacks,131
+2026-01-29,Delhi,M&M'S,Snacks,256
+2026-01-29,Delhi,Soft Drinks,Beverages,214
+2026-01-29,Delhi,Energy Drinks,Beverages,181
+2026-01-29,Delhi,coffee&tea,Beverages,87
+2026-01-29,Delhi,Shampoo,Personal Care,106
+2026-01-29,Delhi,Lotion,Personal Care,117
+2026-01-29,Delhi,Soap,Personal Care,37
+2026-01-29,Delhi,Face Wash,Personal Care,88
+2026-01-29,Bangalore,cereals,Grocery,111
+2026-01-29,Bangalore,herbs,Grocery,115
+2026-01-29,Bangalore,fruits,Grocery,139
+2026-01-29,Bangalore,veggies,Grocery,62
+2026-01-29,Bangalore,Milk,Dairy,172
+2026-01-29,Bangalore,Cheese,Dairy,58
+2026-01-29,Bangalore,Butter Milk,Dairy,223
+2026-01-29,Bangalore,Chips,Snacks,111
+2026-01-29,Bangalore,Nuts,Snacks,168
+2026-01-29,Bangalore,Cheetos,Snacks,145
+2026-01-29,Bangalore,M&M'S,Snacks,109
+2026-01-29,Bangalore,Soft Drinks,Beverages,194
+2026-01-29,Bangalore,Energy Drinks,Beverages,96
+2026-01-29,Bangalore,coffee&tea,Beverages,142
+2026-01-29,Bangalore,Shampoo,Personal Care,125
+2026-01-29,Bangalore,Lotion,Personal Care,57
+2026-01-29,Bangalore,Soap,Personal Care,75
+2026-01-29,Bangalore,Face Wash,Personal Care,49
+2026-01-30,Mumbai,cereals,Grocery,152
+2026-01-30,Mumbai,herbs,Grocery,58
+2026-01-30,Mumbai,fruits,Grocery,181
+2026-01-30,Mumbai,veggies,Grocery,85
+2026-01-30,Mumbai,Milk,Dairy,209
+2026-01-30,Mumbai,Cheese,Dairy,180
+2026-01-30,Mumbai,Butter Milk,Dairy,85
+2026-01-30,Mumbai,Chips,Snacks,121
+2026-01-30,Mumbai,Nuts,Snacks,168
+2026-01-30,Mumbai,Cheetos,Snacks,168
+2026-01-30,Mumbai,M&M'S,Snacks,102
+2026-01-30,Mumbai,Soft Drinks,Beverages,169
+2026-01-30,Mumbai,Energy Drinks,Beverages,152
+2026-01-30,Mumbai,coffee&tea,Beverages,137
+2026-01-30,Mumbai,Shampoo,Personal Care,99
+2026-01-30,Mumbai,Lotion,Personal Care,66
+2026-01-30,Mumbai,Soap,Personal Care,46
+2026-01-30,Mumbai,Face Wash,Personal Care,89
+2026-01-30,Pune,cereals,Grocery,105
+2026-01-30,Pune,herbs,Grocery,61
+2026-01-30,Pune,fruits,Grocery,159
+2026-01-30,Pune,veggies,Grocery,69
+2026-01-30,Pune,Milk,Dairy,238
+2026-01-30,Pune,Cheese,Dairy,100
+2026-01-30,Pune,Butter Milk,Dairy,72
+2026-01-30,Pune,Chips,Snacks,179
+2026-01-30,Pune,Nuts,Snacks,118
+2026-01-30,Pune,Cheetos,Snacks,165
+2026-01-30,Pune,M&M'S,Snacks,147
+2026-01-30,Pune,Soft Drinks,Beverages,202
+2026-01-30,Pune,Energy Drinks,Beverages,160
+2026-01-30,Pune,coffee&tea,Beverages,147
+2026-01-30,Pune,Shampoo,Personal Care,60
+2026-01-30,Pune,Lotion,Personal Care,74
+2026-01-30,Pune,Soap,Personal Care,36
+2026-01-30,Pune,Face Wash,Personal Care,68
+2026-01-30,Delhi,cereals,Grocery,81
+2026-01-30,Delhi,herbs,Grocery,70
+2026-01-30,Delhi,fruits,Grocery,176
+2026-01-30,Delhi,veggies,Grocery,107
+2026-01-30,Delhi,Milk,Dairy,377
+2026-01-30,Delhi,Cheese,Dairy,114
+2026-01-30,Delhi,Butter Milk,Dairy,139
+2026-01-30,Delhi,Chips,Snacks,62
+2026-01-30,Delhi,Nuts,Snacks,139
+2026-01-30,Delhi,Cheetos,Snacks,165
+2026-01-30,Delhi,M&M'S,Snacks,109
+2026-01-30,Delhi,Soft Drinks,Beverages,208
+2026-01-30,Delhi,Energy Drinks,Beverages,310
+2026-01-30,Delhi,coffee&tea,Beverages,136
+2026-01-30,Delhi,Shampoo,Personal Care,60
+2026-01-30,Delhi,Lotion,Personal Care,26
+2026-01-30,Delhi,Soap,Personal Care,50
+2026-01-30,Delhi,Face Wash,Personal Care,39
+2026-01-30,Bangalore,cereals,Grocery,104
+2026-01-30,Bangalore,herbs,Grocery,109
+2026-01-30,Bangalore,fruits,Grocery,110
+2026-01-30,Bangalore,veggies,Grocery,71
+2026-01-30,Bangalore,Milk,Dairy,194
+2026-01-30,Bangalore,Cheese,Dairy,71
+2026-01-30,Bangalore,Butter Milk,Dairy,68
+2026-01-30,Bangalore,Chips,Snacks,140
+2026-01-30,Bangalore,Nuts,Snacks,132
+2026-01-30,Bangalore,Cheetos,Snacks,105
+2026-01-30,Bangalore,M&M'S,Snacks,118
+2026-01-30,Bangalore,Soft Drinks,Beverages,186
+2026-01-30,Bangalore,Energy Drinks,Beverages,169
+2026-01-30,Bangalore,coffee&tea,Beverages,114
+2026-01-30,Bangalore,Shampoo,Personal Care,129
+2026-01-30,Bangalore,Lotion,Personal Care,88
+2026-01-30,Bangalore,Soap,Personal Care,98
+2026-01-30,Bangalore,Face Wash,Personal Care,48
